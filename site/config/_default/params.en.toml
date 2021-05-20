@@ -1,0 +1,58 @@
+# Banner Section
+[banner]
+enable                = true
+background_image      = "images/backgrounds/hero-background.jpg"
+heading               = "Inspiring and changing communities"
+tagline               = "Lift up the people"
+primary_button        = "About"
+primary_button_url    = "about"
+secondary_button      = "Nominate"
+secondary_button_url  = "nominated"
+
+[call_to_action]
+enable              = true
+background_image    = "images/backgrounds/cta-background.jpg"
+title               = "Don’t be shy. Nominated someone"
+primary_button      = "Nominate Someone"
+primary_button_url  = "nominated"
+
+[newsroom]
+enable    = true
+title     = "NEWSROOM"
+subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+
+[footer]
+# Footer Contact Info
+[footer.contactInfo]
+    title = "Contact Information"
+    address = "AfricTivistes, BP : 19968 (Sénégal)"
+    phone = "(+221) 33 837 51 24"
+    email = "info@africtivistes.org"
+    # Footer Sitemap
+    [footer.sitemap]
+    title = "Sitemap"
+    [[footer.sitemap.link]]
+        name = "Home"
+        url = "/"
+    [[footer.sitemap.link]]
+        name = "About"
+        url = "/about"
+    [[footer.sitemap.link]]
+        name = "Newsroom"
+        url = "/newsroom"
+    [[footer.sitemap.link]]
+        name = "Nominate someone"
+        url = "/nominated"
+    # Footer Social Media
+    [footer.social]
+    title = "Social Media"
+    [[footer.social.link]]
+        name = "Twitter"
+        url = "https://twitter.com/AFRICTIVISTES"
+    [[footer.social.link]]
+        name = "Facebook"
+        url = "https://www.facebook.com/africtivistes/"
+    # Footer Service
+    [footer.service]
+    title = "AfricTivists Civic Action Award"
+    description = "Rewarding citizen champions"

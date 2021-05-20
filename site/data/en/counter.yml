@@ -1,0 +1,14 @@
+enable : true
+heading : "THE AFRICTIVISTES CIVIC ACTION PRICE!"
+counter_item: 
+  - title: "Actors of change"
+    number: "200+"
+
+  - title: "Countrys"
+    number: "40"
+
+  - title: "Nominees"
+    number: "0"
+
+  - title: "Finalists"
+    number: "5"

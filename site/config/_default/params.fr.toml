@@ -1,0 +1,58 @@
+# Banner Section
+[banner]
+enable                = true
+background_image      = "images/backgrounds/hero-background.jpg"
+heading               = "Qui inspirent et changent les communautés"
+tagline               = "Élevez les personnes"
+primary_button        = "À propos"
+primary_button_url    = "/fr/about"
+secondary_button      = "Nominer"
+secondary_button_url  = "/fr/nominated"
+
+[call_to_action]
+enable              = true
+background_image    = "images/backgrounds/cta-background.jpg"
+title               = "Ne soyez pas timide ! Nominez quelqu'un."
+primary_button      = "Nominate Someone"
+primary_button_url  = "/fr/nominated"
+
+[newsroom]
+enable    = true
+title     = "NEWSROOM"
+subtitle  = "Retrouver l'actualité AfricTivistes Prix de l'Action Civique la plus récente"
+
+[footer]
+# Footer Contact Info
+[footer.contactInfo]
+    title   = "Informations de contact"
+    address = "AfricTivistes, BP : 19968 (Sénégal)"
+    phone   = "(+221) 33 837 51 24"
+    email   = "info@africtivistes.org"
+    # Footer Sitemap
+    [footer.sitemap]
+    title   = "Sitemap"
+    [[footer.sitemap.link]]
+        name = "Accueil"
+        url  = "/fr"
+    [[footer.sitemap.link]]
+        name = "À propos"
+        url  = "/fr/about"
+    [[footer.sitemap.link]]
+        name = "Newsroom"
+        url  = "/fr/newsroom"
+    [[footer.sitemap.link]]
+        name = "Nominer quelqu'un"
+        url  = "/fr/nominated"
+    # Footer Social Media
+    [footer.social]
+    title   = "Social Media"
+    [[footer.social.link]]
+        name = "Twitter"
+        url  = "https://twitter.com/AFRICTIVISTES"
+    [[footer.social.link]]
+        name = "Facebook"
+        url  = "https://www.facebook.com/africtivistes/"
+    # Footer Service
+    [footer.service]
+    title       = "Prix AfricTivistes pour l'action civique"
+    description = "Récompenser les champions citoyens"

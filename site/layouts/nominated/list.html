@@ -1,0 +1,241 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+        <div>
+          <article class="site-blog-details">
+            {{ .Content }}
+          </article>
+        </div>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading_1 }}</h4>
+          <form id="contact-form" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="nom" id="nom" placeholder="{{ i18n "nom" }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="nationalite" id="nationalite" placeholder="{{ i18n "nationalite" }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="telephone" id="telephone" placeholder="{{ i18n "telephone" }}" required>
+              </div>
+              <div class="col-12">
+                <h4>{{ .Params.form_heading_2 }}</h4>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="nominenom" id="nomineNom" placeholder="{{ i18n "nom" }}" required>
+              </div>
+              <div class="col-lg-6">
+                <div class="select-wrapper">
+                  <select class="form-control" name="nominesexe" id="nomineSexe" required>
+                    <option value="" selected disabled hidden>{{ i18n "nsexe" }}</option>
+                    <option value="{{ i18n "nsexeh" }}">{{ i18n "nsexe1" }}</option>
+                    <option value="{{ i18n "nsexef" }}">{{ i18n "nsexe2" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="select-wrapper">
+                  <select class="form-control" name="nomineage" id="nomineAge">
+                    <option value="" selected disabled hidden>{{ i18n "nage" }}</option>
+                    <option value="Homme">{{ i18n "nage1" }}</option>
+                    <option value="Femme">{{ i18n "nage2" }}</option>
+                    <option value="Femme">{{ i18n "nage3" }}</option>
+                    <option value="Femme">{{ i18n "nage4" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="select-wrapper">
+                  <select class="form-control" name="nominepays" id="nominePays" required>
+                    <option value="" selected disabled hidden>{{ i18n "npays" }}</option>
+                    <option value="{{ i18n "npays1" }}">{{ i18n "npays1" }}</option>
+                    <option value="{{ i18n "npays2" }}">{{ i18n "npays2" }}</option>
+                    <option value="{{ i18n "npays3" }}">{{ i18n "npays3" }}</option>
+                    <option value="{{ i18n "npays4" }}">{{ i18n "npays4" }}</option>
+                    <option value="{{ i18n "npays5" }}">{{ i18n "npays5" }}</option>
+                    <option value="{{ i18n "npays6" }}">{{ i18n "npays6" }}</option>
+                    <option value="{{ i18n "npays7" }}">{{ i18n "npays7" }}</option>
+                    <option value="{{ i18n "npays8" }}">{{ i18n "npays8" }}</option>
+                    <option value="{{ i18n "npays9" }}">{{ i18n "npays9" }}</option>
+                    <option value="{{ i18n "npays10" }}">{{ i18n "npays10" }}</option>
+                    <option value="{{ i18n "npays11" }}">{{ i18n "npays11" }}</option>
+                    <option value="{{ i18n "npays12" }}">{{ i18n "npays12" }}</option>
+                    <option value="{{ i18n "npays13" }}">{{ i18n "npays13" }}</option>
+                    <option value="{{ i18n "npays14" }}">{{ i18n "npays14" }}</option>
+                    <option value="{{ i18n "npays15" }}">{{ i18n "npays15" }}</option>
+                    <option value="{{ i18n "npays16" }}">{{ i18n "npays16" }}</option>
+                    <option value="{{ i18n "npays17" }}">{{ i18n "npays17" }}</option>
+                    <option value="{{ i18n "npays18" }}">{{ i18n "npays18" }}</option>
+                    <option value="{{ i18n "npays19" }}">{{ i18n "npays19" }}</option>
+                    <option value="{{ i18n "npays20" }}">{{ i18n "npays20" }}</option>
+                    <option value="{{ i18n "npays21" }}">{{ i18n "npays21" }}</option>
+                    <option value="{{ i18n "npays22" }}">{{ i18n "npays22" }}</option>
+                    <option value="{{ i18n "npays23" }}">{{ i18n "npays23" }}</option>
+                    <option value="{{ i18n "npays24" }}">{{ i18n "npays24" }}</option>
+                    <option value="{{ i18n "npays25" }}">{{ i18n "npays25" }}</option>
+                    <option value="{{ i18n "npays26" }}">{{ i18n "npays26" }}</option>
+                    <option value="{{ i18n "npays27" }}">{{ i18n "npays27" }}</option>
+                    <option value="{{ i18n "npays28" }}">{{ i18n "npays28" }}</option>
+                    <option value="{{ i18n "npays29" }}">{{ i18n "npays29" }}</option>
+                    <option value="{{ i18n "npays30" }}">{{ i18n "npays30" }}</option>
+                    <option value="{{ i18n "npays31" }}">{{ i18n "npays31" }}</option>
+                    <option value="{{ i18n "npays32" }}">{{ i18n "npays32" }}</option>
+                    <option value="{{ i18n "npays33" }}">{{ i18n "npays33" }}</option>
+                    <option value="{{ i18n "npays34" }}">{{ i18n "npays34" }}</option>
+                    <option value="{{ i18n "npays35" }}">{{ i18n "npays35" }}</option>
+                    <option value="{{ i18n "npays36" }}">{{ i18n "npays36" }}</option>
+                    <option value="{{ i18n "npays37" }}">{{ i18n "npays37" }}</option>
+                    <option value="{{ i18n "npays38" }}">{{ i18n "npays38" }}</option>
+                    <option value="{{ i18n "npays39" }}">{{ i18n "npays39" }}</option>
+                    <option value="{{ i18n "npays40" }}">{{ i18n "npays40" }}</option>
+                    <option value="{{ i18n "npays41" }}">{{ i18n "npays41" }}</option>
+                    <option value="{{ i18n "npays42" }}">{{ i18n "npays42" }}</option>
+                    <option value="{{ i18n "npays43" }}">{{ i18n "npays43" }}</option>
+                    <option value="{{ i18n "npays44" }}">{{ i18n "npays44" }}</option>
+                    <option value="{{ i18n "npays45" }}">{{ i18n "npays45" }}</option>
+                    <option value="{{ i18n "npays46" }}">{{ i18n "npays46" }}</option>
+                    <option value="{{ i18n "npays47" }}">{{ i18n "npays47" }}</option>
+                    <option value="{{ i18n "npays48" }}">{{ i18n "npays48" }}</option>
+                    <option value="{{ i18n "npays49" }}">{{ i18n "npays49" }}</option>
+                    <option value="{{ i18n "npays50" }}">{{ i18n "npays50" }}</option>
+                    <option value="{{ i18n "npays51" }}">{{ i18n "npays51" }}</option>
+                    <option value="{{ i18n "npays52" }}">{{ i18n "npays52" }}</option>
+                    <option value="{{ i18n "npays53" }}">{{ i18n "npays53" }}</option>
+                    <option value="{{ i18n "npays54" }}">{{ i18n "npays54" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="nville" id="nomineVille" placeholder="{{ i18n "nville" }}" >
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="nemail" id="nomineemail" placeholder="{{ i18n "nemail" }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="ntelephone" id="nomineTelephone" placeholder="{{ i18n "ntelephone" }}" >
+              </div>
+              <div class="col-lg-6">
+                <input type="url" class="form-control" name="nweb" id="nomineWeb" placeholder="{{ i18n "nweb" }}" >
+              </div>
+              <div class="col-lg-6">
+                <input type="url" class="form-control" name="nfacebook" id="nomineFacebook" placeholder="{{ i18n "nfacebook" }}" >
+              </div>
+              <div class="col-lg-6">
+                <input type="url" class="form-control" name="ntwitter" id="nomineTwitter" placeholder="{{ i18n "ntwitter" }}" >
+              </div>
+              <div class="col-12">
+                <h4>{{ .Params.form_heading_3 }}</h4>
+              </div>
+              <div class="col-12">
+                <input type="text" class="form-control" name="nprojet" id="nomineProjet" placeholder="{{ i18n "nprojet" }}" >
+              </div>
+              <div class="col-12 alert" id="nsecteur">
+                  <p>{{ i18n "nsecteur" }}</p>
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur1" }}" > {{ i18n "nsecteur1" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur2" }}" > {{ i18n "nsecteur2" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur3" }}" > {{ i18n "nsecteur3" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur4" }}"> {{ i18n "nsecteur4" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur5" }}"> {{ i18n "nsecteur5" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur6" }}"> {{ i18n "nsecteur6" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur7" }}"> {{ i18n "nsecteur7" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur8" }}"> {{ i18n "nsecteur8" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur9" }}"> {{ i18n "nsecteur9" }}
+                  <input type="checkbox" name="nsecteur" value="{{ i18n "nsecteur10" }}"> {{ i18n "nsecteur10" }}
+              </div>
+              <div class="col-lg-6">
+                <input type="number" class="form-control" name="nannee" id="nomineAnnee" placeholder="{{ i18n "nannee" }}" >
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="nduree" id="nomieDuree" placeholder="{{ i18n "nduree" }}" >
+              </div>
+              <div class="col-12">
+                <input type="text" class="form-control" name="ncomment" id="nomineComment" placeholder="{{ i18n "ncomment" }}" required>
+              </div>
+              <div class="col-12 alert" id="description">
+                <textarea class="form-control" name="ndescription" id="ndescription" rows="3" placeholder="{{ i18n "ndescription" }}" required></textarea>
+              </div>
+              <div class="col-12" id="pourquoi">
+                <textarea class="form-control" name="npourquoi" id="nominePourquoi" rows="3" placeholder="{{ i18n "npourquoi" }}" required></textarea>
+              </div>
+              <div class="col-12">
+                <input type="text" class="form-control" name="npayss" id="nominePayss" placeholder="{{ i18n "npayss" }}" required>
+                <p>{{ i18n "npayss1" }}</p>
+              </div>
+              <div class="col-12">
+                <div class="select-wrapper">
+                  <select class="form-control" name="naction" id="nomineAction" required>
+                    <option value="" selected disabled hidden>{{ i18n "naction" }}</option>
+                    <option value="{{ i18n "naction1" }}">{{ i18n "naction1" }}</option>
+                    <option value="{{ i18n "naction2" }}">{{ i18n "naction2" }}</option>
+                    <option value="{{ i18n "naction3" }}">{{ i18n "naction3" }}</option>
+                    <option value="{{ i18n "naction4" }}">{{ i18n "naction4" }}</option>
+                    <option value="{{ i18n "naction5" }}">{{ i18n "naction5" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="select-wrapper">
+                  <select class="form-control" name="ncouche" id="nomineCouche">
+                    <option value="" selected disabled hidden>{{ i18n "ncouche" }}</option>
+                    <option value="{{ i18n "ncouche1" }}">{{ i18n "ncouche1" }}</option>
+                    <option value="{{ i18n "ncouche2" }}">{{ i18n "ncouche2" }}</option>
+                    <option value="{{ i18n "ncouche3" }}">{{ i18n "ncouche3" }}</option>
+                    <option value="{{ i18n "ncouche4" }}">{{ i18n "ncouche4" }}</option>
+                    <option value="{{ i18n "ncouche5" }}">{{ i18n "ncouche5" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="select-wrapper">
+                  <select class="form-control" name="nappui" id="nomineAppui">
+                    <option value="" selected disabled hidden>{{ i18n "nappui" }}</option>
+                    <option value="{{ i18n "oui" }}">{{ i18n "oui" }}</option>
+                    <option value="{{ i18n "non" }}">{{ i18n "non" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <input type="text" class="form-control" name="nappuitype" id="nomineAppuitype" placeholder="{{ i18n "nappuitype" }}" >
+              </div>
+              <div class="col-12">
+                <div class="select-wrapper">
+                  <select class="form-control" name="nreplicable" id="nomineReplicable" required>
+                    <option value="" selected disabled hidden>{{ i18n "nreplicable" }}</option>
+                    <option value="{{ i18n "oui" }}">{{ i18n "oui" }}</option>
+                    <option value="{{ i18n "non" }}">{{ i18n "non" }}</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <input type="hidden" name="langue" id="langue" value="{{ i18n "langue" }}">
+              </div>
+              <div class="col-12 alert" id="contact-form-status" role="alert"></div>
+              <div class="col-12" id="contact-form-button">
+                <div data-netlify-recaptcha="true"></div>
+                <button type="submit" class="btn btn-primary">
+                  <span class="btn-area">
+                    <span data-text="{{ i18n "envoyerMessage" }}">
+                      {{ i18n "envoyerMessage" }}
+                    </span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

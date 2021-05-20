@@ -1,0 +1,240 @@
+- id: baseurl
+  translation: "/fr"
+- id: days
+  translation: jours
+- id: hours
+  translation: heures
+- id: minutes
+  translation: minutes
+- id: seconds
+  translation: secondes
+- id: readmore
+  translation: Lire la suite
+- id: morenews
+  translation: Plus de nouvelles
+- id: visitagain
+  translation: "Je veux visiter <br> à nouveau"
+- id: nom
+  translation: "Prénom(s) & Nom"
+- id: nationalite
+  translation: "Nationalité"
+- id: email
+  translation: "E-mail"
+- id: telephone
+  translation: "(Indicatif du pays) Téléphone"
+- id: nsexe
+  translation: Sexe
+- id: nsexe1
+  translation: Homme
+- id: nsexe2
+  translation: Femme
+- id: nage
+  translation: Tranche d'âge
+- id: nage1
+  translation: Moins de 25 ans
+- id: nage2
+  translation: 25 - 35 ans
+- id: nage3
+  translation: 35 - 40 ans
+- id: nage4
+  translation: Je ne connais pas son âge
+- id: npays
+  translation: Pays de résidence
+- id: npays1
+  translation: Afrique du Sud
+- id: npays2
+  translation: Algérie
+- id: npays3
+  translation: Angola
+- id: npays4
+  translation: Bénin
+- id: npays5
+  translation: Botswana
+- id: npays6
+  translation: Burkina Faso
+- id: npays7
+  translation: Burundi
+- id: npays8
+  translation: Cameroun
+- id: npays9
+  translation: Cap-Vert
+- id: npays10
+  translation: République centrafricaine
+- id: npays11
+  translation: Comores
+- id: npays12
+  translation: République du Congo
+- id: npays13
+  translation: République démocratique du Congo
+- id: npays14
+  translation: Côte d’Ivoire
+- id: npays15
+  translation: Djibouti
+- id: npays16
+  translation: Égypte
+- id: npays17
+  translation: Érythrée
+- id: npays18
+  translation: Eswatini
+- id: npays19
+  translation: Éthiopie
+- id: npays20
+  translation: Gabon
+- id: npays21
+  translation: Gambie
+- id: npays22
+  translation: Ghana
+- id: npays23
+  translation: Guinée
+- id: npays24
+  translation: Guinée-Bissau
+- id: npays25
+  translation: Guinée équatoriale
+- id: npays26
+  translation: Kenya
+- id: npays27
+  translation: Lesotho
+- id: npays28
+  translation: Liberia
+- id: npays29
+  translation: Libye
+- id: npays30
+  translation: Madagascar
+- id: npays31
+  translation: Malawi
+- id: npays32
+  translation: Mali
+- id: npays33
+  translation: Maroc
+- id: npays34
+  translation: Maurice
+- id: npays35
+  translation: Mauritanie
+- id: npays36
+  translation: Mozambique
+- id: npays37
+  translation: Namibie
+- id: npays38
+  translation: Niger
+- id: npays39
+  translation: Nigeria
+- id: npays40
+  translation: Ouganda
+- id: npays41
+  translation: Rwanda
+- id: npays42
+  translation: São Tomé-et-Principe
+- id: npays43
+  translation: Sénégal
+- id: npays44
+  translation: Seychelles
+- id: npays45
+  translation: Sierra Leone
+- id: npays46
+  translation: Somalie
+- id: npays47
+  translation: Soudan
+- id: npays48
+  translation: Soudan du Sud
+- id: npays49
+  translation: Tanzanie
+- id: npays50
+  translation: Tchad
+- id: npays51
+  translation: Togo
+- id: npays52
+  translation: Tunisie
+- id: npays53
+  translation: Zambie
+- id: npays54
+  translation: Zimbabwe
+- id: nville
+  translation: Ville de résidence
+- id: nemail
+  translation: Email du ou de la nominé(e)
+- id: ntelephone
+  translation: (Indicatif du pays) Téléphone
+- id: nweb
+  translation: Site Web
+- id: nfacebook
+  translation: Page Facebook
+- id: ntwitter
+  translation: Page Twitter
+- id: nprojet
+  translation: Nom de l'initiative ou du projet
+- id: nsecteur
+  translation: "Secteur(s) d'activités de l'initiative ou du projet (note: max 3 réponses)"
+- id: nsecteur1
+  translation: Social
+- id: nsecteur2
+  translation: Environnement
+- id: nsecteur3
+  translation: Politique
+- id: nsecteur4
+  translation: Droits humains
+- id: nsecteur5
+  translation: Sport
+- id: nsecteur6
+  translation: Education
+- id: nsecteur7
+  translation: Culture
+- id: nsecteur6
+  translation: Finances
+- id: nsecteur8
+  translation: Technologies
+- id: nsecteur9
+  translation: Santé
+- id: nsecteur10
+  translation: Agriculture
+- id: nannee
+  translation: Année de lancement/création de l'initiative ou du projet
+- id: nduree
+  translation: Durée de l'initiative ou du projet
+- id: ncomment
+  translation: Comment avez-vous découvert l'initiative ou le projet ?
+- id: ndescription
+  translation: "Brève description des actions [objectifs, cibles, types d'actions, innovation, etc. ] (250 mots maximum) "
+- id: npourquoi
+  translation: "Pourquoi, selon vous, cette personne devrait recevoir le Prix AfricTivistes (250 mots maximum) ?"
+- id: npayss
+  translation: "Pays d'intervention (note: la personne peut choisir plusieurs pays)"
+- id: npayss1
+  translation: Si l'initiative/le projet couvre plusieurs pays, veuillez les lister
+- id: naction
+  translation: Quelle est l'étendue des actions de la personne nominée ?
+- id: naction1
+  translation: Quartier
+- id: naction2
+  translation: Commune
+- id: naction3
+  translation: Pays
+- id: naction4
+  translation: Sous-région
+- id: naction5
+  translation: Continent
+- id: ncouche
+  translation: Quelle est la cible principale du projet/initiative ?
+- id: ncouche1
+  translation: Enfants
+- id: ncouche2
+  translation: Jeunes
+- id: ncouche3
+  translation: Adultes
+- id: ncouche4
+  translation: Femmes
+- id: ncouche5
+  translation: Personnes âgées
+- id: nappui
+  translation: Le projet/initiative, a-t-il reçu un appui dans sa mise en œuvre ?
+- id: nappuitype
+  translation: Si oui, de quel type d'appui ou d'accompagnement a t-il bénéficié ?
+- id: nreplicable
+  translation: Les activités sont-elles réplicables dans d'autres pays africains ?
+- id: oui
+  translation: Oui
+- id: non
+  translation: Non
+- id: langue
+  translation: fr
+- id: envoyerMessage
+  translation: Soumettre la candidature

@@ -1,0 +1,240 @@
+- id: baseurl
+  translation: "/en"
+- id: days
+  translation: days
+- id: hours
+  translation: hours
+- id: minutes
+  translation: minutes
+- id: seconds
+  translation: seconds
+- id: readmore
+  translation: read more
+- id: morenews
+  translation: More News
+- id: visitagain
+  translation: "I want to <br> visit again"
+- id: nom
+  translation: "First & Last name"
+- id: nationalite
+  translation: "Nationality"
+- id: email
+  translation: "E-mail"
+- id: telephone
+  translation: "Telephone(country code number)"
+- id: nsexe
+  translation: Gender
+- id: nsexe1
+  translation: Man
+- id: nsexe2
+  translation: Woman
+- id: nage
+  translation: Age range
+- id: nage1
+  translation: Under 25 years old
+- id: nage2
+  translation: 25 - 35 years
+- id: nage3
+  translation: 35 - 40 years
+- id: nage4
+  translation: I don't know his age
+- id: npays
+  translation: Country of residence
+- id: npays1
+  translation: South Africa
+- id: npays2
+  translation: Algeria
+- id: npays3
+  translation: Angola
+- id: npays4
+  translation: Benin
+- id: npays5
+  translation: Botswana
+- id: npays6
+  translation: Burkina Faso
+- id: npays7
+  translation: Burundi
+- id: npays8
+  translation: Cameroun
+- id: npays9
+  translation: Cap-Vert
+- id: npays10
+  translation: Central African Republic
+- id: npays11
+  translation: Comores
+- id: npays12
+  translation: Republic of the Congo
+- id: npays13
+  translation: Democratic Republic of the Congo
+- id: npays14
+  translation: Côte d’Ivoire
+- id: npays15
+  translation: Djibouti
+- id: npays16
+  translation: Egypt
+- id: npays17
+  translation: Eritrea
+- id: npays18
+  translation: Eswatini
+- id: npays19
+  translation: Ethiopia
+- id: npays20
+  translation: Gabon
+- id: npays21
+  translation: Gambia
+- id: npays22
+  translation: Ghana
+- id: npays23
+  translation: Guinea
+- id: npays24
+  translation: Guinea-Bissau
+- id: npays25
+  translation: Equatorial Guinea
+- id: npays26
+  translation: Kenya
+- id: npays27
+  translation: Lesotho
+- id: npays28
+  translation: Liberia
+- id: npays29
+  translation: Libye
+- id: npays30
+  translation: Madagascar
+- id: npays31
+  translation: Malawi
+- id: npays32
+  translation: Mali
+- id: npays33
+  translation: Maroc
+- id: npays34
+  translation: Maurice
+- id: npays35
+  translation: Mauritania
+- id: npays36
+  translation: Mozambique
+- id: npays37
+  translation: Namibia
+- id: npays38
+  translation: Niger
+- id: npays39
+  translation: Nigeria
+- id: npays40
+  translation: Ouganda
+- id: npays41
+  translation: Rwanda
+- id: npays42
+  translation: São Tomé-et-Principe
+- id: npays43
+  translation: Senegal
+- id: npays44
+  translation: Seychelles
+- id: npays45
+  translation: Sierra Leone
+- id: npays46
+  translation: Somalia
+- id: npays47
+  translation: Soudan
+- id: npays48
+  translation: South Sudan
+- id: npays49
+  translation: Tanzania
+- id: npays50
+  translation: Tchad
+- id: npays51
+  translation: Togo
+- id: npays52
+  translation: Tunisia
+- id: npays53
+  translation: Zambia
+- id: npays54
+  translation: Zimbabwe
+- id: nville
+  translation: City of residence
+- id: nemail
+  translation: Email of the nominee
+- id: ntelephone
+  translation: (Country code) Telephone
+- id: nweb
+  translation: Website
+- id: nfacebook
+  translation: Facebook Page
+- id: ntwitter
+  translation: Twitter Page
+- id: nprojet
+  translation: Name of the initiative or project
+- id: nsecteur
+  translation: "Sector(s) of activity of the initiative or project (note: max 3 answers)"
+- id: nsecteur1
+  translation: Social
+- id: nsecteur2
+  translation: Environment
+- id: nsecteur3
+  translation: Politics
+- id: nsecteur4
+  translation: Human Rights
+- id: nsecteur5
+  translation: Sport
+- id: nsecteur6
+  translation: Education
+- id: nsecteur7
+  translation: Culture
+- id: nsecteur6
+  translation: Finances
+- id: nsecteur8
+  translation: Technology
+- id: nsecteur9
+  translation: Health
+- id: nsecteur10
+  translation: Agriculture
+- id: nannee
+  translation: Launch or creation year
+- id: nduree
+  translation: Duration of the initiative/project
+- id: ncomment
+  translation: How did you find out about the initiative or project?
+- id: ndescription
+  translation: "Brief description of actions [objectives, targets, types of actions, innovation, etc. ] (250 words maximum) "
+- id: npourquoi
+  translation: "Why do you think this person should receive the AfricTivistes Prize? (250 words maximum)"
+- id: npayss
+  translation: "Country of intervention (you can choose one or multiple countries)"
+- id: npayss1
+  translation: If the initiative/project covers several countries, please list them
+- id: naction
+  translation: What is the scope of the nominee's actions?
+- id: naction1
+  translation: Neighborhood
+- id: naction2
+  translation: Municipality
+- id: naction3
+  translation: Country
+- id: naction4
+  translation: Sub-region
+- id: naction5
+  translation: Continent
+- id: ncouche
+  translation: What is the main target of the project/initiative?
+- id: ncouche1
+  translation: Children
+- id: ncouche2
+  translation: Young people
+- id: ncouche3
+  translation: Adults
+- id: ncouche4
+  translation: Woman
+- id: ncouche5
+  translation: Seniors
+- id: nappui
+  translation: Did the project (initiative) receive any support in its implementation?
+- id: nappuitype
+  translation: If so, what type of support or coaching did they receive?
+- id: nreplicable
+  translation: Are the activities replicable in other African countries or areas?
+- id: oui
+  translation: "Yes"
+- id: non
+  translation: "No"
+- id: langue
+  translation: en
+- id: envoyerMessage
+  translation: Submit application

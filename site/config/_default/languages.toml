@@ -1,0 +1,16 @@
+############################# English ############################
+[en]
+languageCode  = "en-us"
+languageName = "En"
+title = "AfricTivistes Civic Action Prize"
+contentDir = "content/english"
+weight = 1
+
+############################# French ############################
+[fr]
+languageCode  = "fr"
+languageName = "Fr"
+title = "Prix AfricTivistes pour l'action civique"
+contentDir = "content/french"
+weight = 2
+    

@@ -1,0 +1,6 @@
+baseURL       = "/"
+theme         = "roxo-hugo"
+summarylength = 25
+
+defaultContentLanguage = "en"
+

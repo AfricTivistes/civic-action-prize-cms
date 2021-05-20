@@ -1,0 +1,29 @@
+{
+  "name": "civic-action-prize",
+  "version": "1.0.0",
+  "description": "Post Data to Google Drive",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server --disableFastRender",
+    "netlify": "netlify build && netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfricTivistes/civic-action-prize.git"
+  },
+  "keywords": [
+    "form",
+    "google",
+    "drive"
+  ],
+  "author": "Mamadou Diagne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AfricTivistes/civic-action-prize/issues"
+  },
+  "homepage": "https://github.com/AfricTivistes/civic-action-prize#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.1.15"
+  }
+}

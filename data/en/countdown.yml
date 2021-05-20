@@ -1,0 +1,7 @@
+enable : true
+title : "You have …. left"
+subtitle : "To nominate your Citizen Champion!"
+btnText : "Nominate"
+countdownYear : 2021
+countdownMonth : 7
+countdownDay  : 16

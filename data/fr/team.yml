@@ -1,0 +1,67 @@
+enable  : true
+title   : Comité de sélection
+members  :
+  - image       : images/team/team-member.jpg
+    name        : Aya Chebbi
+    designation : Tunisie
+    facebook    : http://facebook.com/
+    twitter     : https://twitter.com/
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Boniface Mwengui
+    designation : Kenya
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Ibrahim Sanusi
+    designation : Éthiopie
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Jean Jacques Lumumba
+    designation : RDC
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Justin Arenstein
+    designation : Code4Africa (South Africa)
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Papa Ismaila Dieng
+    designation : Journaliste-blogueur, lauréat 2018 Prix Anna Gueye (Sénégal)
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Rosebell Kagumire
+    designation : Journaliste, lauréate Prix Anna Gueye, 2018, (Ouganda)
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Salieu Taal
+    designation : President of Gambian Bar Association (Gambia)
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member.jpg
+    name        : Safwene Grira
+    designation : journaliste (Tunisie)
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

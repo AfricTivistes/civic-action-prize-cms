@@ -1,0 +1,14 @@
+# Site Params
+logo = "images/logo.png"
+dateFormat = "26 FEB 1994"
+# Meta data
+description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+author = "AfricTivistes"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+# Navbar Action Button
+[navAction]
+status  = true
+name    = "Nominate Someone"
+url     = "contact"

@@ -1,0 +1,17 @@
+# Navbar Menus
+[[nav]]
+  name    = "Home"
+  url     = "/"
+  weight  = 1
+[[nav]]
+  name    = "About"
+  url     = "about"
+  weight  = 2
+[[nav]]
+  name    = "Newsroom"
+  url     = "newsroom"
+  weight  = 3
+[[nav]]
+  name    = "Nominate Someone"
+  url     = "nominated"
+  weight  = 4

@@ -1,0 +1,69 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.countdown }}
+{{ if .enable }}
+<section class="site-counter countdown" id="counter">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col-md-6">
+                <div class="block">
+                    <div class="section-title">
+                        <h2 class="text-white">
+                            {{ .title }}
+                        </h2>
+                    </div>
+                    <div class="site-counter-item">
+                        <p class="site-counter-item-title">
+                            {{ .subtitle }}
+                        </p>
+                    </div>
+                    <div>
+                        <a class="btn btn-primary" href="#{{ i18n "about" | urlize }}" role="button">
+                            {{ .btnText }}
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-5 col-md-6">
+                <div class="block">
+                    <div class="counter text-center">
+                        <ul id="countdown_dashboard" data-year="{{ .countdownYear }}"
+                            data-month="{{ .countdownMonth }}"
+                            data-day="{{ .countdownDay }}">
+                            <li>
+                                <div class="dash days_dash">
+                                    <div class="digit">0</div>
+                                    <div class="digit">0</div>
+                                    <span class="dash_title">{{i18n "days" }}</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="dash hours_dash">
+                                    <div class="digit">0</div>
+                                    <div class="digit">0</div>
+                                    <span class="dash_title">{{i18n "hours" }}</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="dash minutes_dash">
+                                    <div class="digit">0</div>
+                                    <div class="digit">0</div>
+                                    <span class="dash_title">{{i18n "minutes" }}</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="dash seconds_dash">
+                                    <div class="digit">0</div>
+                                    <div class="digit">0</div>
+                                    <span class="dash_title">{{i18n "seconds" }}</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

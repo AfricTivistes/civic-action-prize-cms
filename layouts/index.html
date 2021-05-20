@@ -1,13 +1,15 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "hero.html" . }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "newsroom.html" . }}
 
-{{ partial "2-up" .Params }}
+{{ partial "counter.html" . }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "countdown.html" . }}
 
-{{ partial "blog" . }}
+<!-- {{ partial "testimonial.html" . }} -->
+
+{{ partial "call-to-action.html" . }}
 
 {{ end }}

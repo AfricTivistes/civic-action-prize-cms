@@ -13,6 +13,21 @@ collections:
         name: "about"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: Image, name: image, widget: image}
+          - {label: "Expertise title", name: "expertise_title", widget: string}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - file: "site/content/english/nominated/_index.md"
+        label: "Nominated"
+        name: "nominated"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Heading", name: "heading", widget: string}
+          - {label: "Form heading 1", name: "form_heading_1", widget: string}
+          - {label: "Form heading 2", name: "form_heading_2", widget: string}
+          - {label: "Form heading 3", name: "form_heading_3", widget: string}
           - {label: "Content", name: "body", widget: "markdown"}
   - name: "newsroom_en"
     label: "Newsroom in English"
@@ -20,5 +35,10 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: Image, name: image, widget: image}
+      - {label: Category, name: category, widget: list, field: {label: Quote, name: quote, widget: string}}
+      - {label: "feature Image", name: feature_image, widget: image}
+      - {label: Author, name: author, widget: string}
       - {label: "Content", name: "body", widget: "markdown"}
  

@@ -1,5 +1,5 @@
 ---
-title: REWARDS
+title: Rewards
 date: 2021-05-17T13:20:06+06:00
 image: images/blog/blog-post-04.jpg
 category:

@@ -1,9 +1,10 @@
 ---
-title: "AfricTivistesPrize"
+title: AfricTivistesPrize
 date: 2021-05-17T13:45:06+06:00
-image: images/blog/blog-post-04.jpg
-category: ["Communiqué"]
-feature_image: images/blog/blog-details-image.jpg
+image: /images/img_0133.jpg
+category:
+  - Communiqué
+feature_image: /images/img_0133.jpg
 author: Sokhna Cisse
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: "What rewards for the finalists?"
+title: REWARDS
 date: 2021-05-17T13:20:06+06:00
 image: images/blog/blog-post-04.jpg
-category: ["Press release"]
+category:
+  - Press release
 feature_image: images/blog/blog-details-image.jpg
 author: Sokhna Cisse
 ---

@@ -1,6 +1,6 @@
 ---
 title: "#AfricTivistesPrize"
-date: 2021-05-17T13:45:06+06:00
+date: 2021-05-21T11:55:07.703Z
 image: /images/img_0133.jpg
 category:
   - Communiqué

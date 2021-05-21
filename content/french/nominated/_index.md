@@ -1,10 +1,10 @@
 ---
-title         : "Contact"
-date          : 2019-12-23T20:17:01+06:00
-heading       : "Ne soyez pas timide. <span>Nominez</span> quelqu'un"
-form_heading_1  : "Qui êtes-vous ?"
-form_heading_2  : "Qui voulez-vous nominer?"
-form_heading_3  : "Quelle initiative ou projet ?"
+title: Contact
+date: 2021-05-21T12:45:52.867Z
+heading: "Ne soyez pas timide ! <span>Nominez</span> quelqu'un:"
+form_heading_1: Qui êtes-vous ?
+form_heading_2: Qui voulez-vous nominer?
+form_heading_3: Quelle initiative ou projet ?
 ---
 
 AfricTivistes est une organisation panafricaine créée en 2015 qui promeut la bonne gouvernance, l'engagement citoyen et

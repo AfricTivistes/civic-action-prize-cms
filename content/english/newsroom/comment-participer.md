@@ -1,8 +1,9 @@
 ---
-title: "How to participate?"
-date: 2021-05-17T13:30:06+06:00
+title: How to participate?
+date: 2021-05-21T14:42:38.313Z
 image: images/blog/blog-post-04.jpg
-category: ["Press release"]
+category:
+  - Press release
 feature_image: images/blog/blog-details-image.jpg
 author: Sokhna Cisse
 ---

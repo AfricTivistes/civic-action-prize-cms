@@ -1,10 +1,10 @@
 ---
-title         : "Nommer"
-date          : 2019-12-23T20:17:01+06:00
-heading       : "Don’t be shy! <span>Nominate</span> someone."
-form_heading_1  : "Who are you ?"
-form_heading_2  : "Who do you want to nominate?"
-form_heading_3  : "What initiative or project ?"
+title: Nominate
+date: 2019-12-23T20:17:01+06:00
+heading: Don’t be shy! <span>Nominate</span> someone.
+form_heading_1: Who are you ?
+form_heading_2: Who do you want to nominate?
+form_heading_3: What initiative or project ?
 ---
 
 AfricTivistes is a pan-African organisation created in 2015 that promotes good governance, citizen and civic engagement, democracy, respect for human rights via digital. 

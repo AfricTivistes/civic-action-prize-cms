@@ -19,7 +19,7 @@ primary_button_url  = "/fr/nominated"
 [newsroom]
 enable    = true
 title     = "NEWSROOM"
-subtitle  = "Retrouver l'actualité AfricTivistes Prix de l'Action Civique la plus récente"
+subtitle  = "Retrouvez toute l'actualité sur le Prix AfricTivistes pour l'Action Civique"
 
 [footer]
 # Footer Contact Info

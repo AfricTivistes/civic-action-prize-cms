@@ -1,5 +1,5 @@
 ---
-title: AfricTivistesPrize
+title: "#AfricTivistesPrize"
 date: 2021-05-21T14:38:51.004Z
 image: images/blog/blog-post-04.jpg
 category:

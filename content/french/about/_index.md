@@ -26,19 +26,21 @@ expertise_sectors:
   - Networking
   - Autres selon la contribution des partenaires du Prix.
 ---
+
+
 Ce prix permet de rappeler le rôle et la place des jeunes dans la construction de la citoyenneté et l’acquisition de nouvelles compétences. Mieux, il vise à mettre en exergue la capacité des jeunes à prendre en main leur destin et le pouvoir par le don de soi et la participation citoyenne dans l'intérêt de la communauté.
 
-### Qui peut être nominé?
+**Qui peut être nominé?**
 
 * Être ressortissant d’un des 54 pays du continent;
 * Avoir réalisé un projet innovant ayant une dynamique communautaire à fort impact civique et citoyen
 * Avoir au plus 40 ans
 
-### Avantages et Récompenses
+**Avantages et Récompenses**
 
 Outre le fait qu’ils seront des modèles pour leurs communautés respectives et profiteront des side events du sommet, les cinq (5) nominés recevront:
 
-#### Pour les finalistes:
+**Pour les finalistes:**
 
 * 1500$ chacun
 * Matériel informatique et électronique

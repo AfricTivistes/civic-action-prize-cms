@@ -40,7 +40,7 @@ Outre le fait qu’ils seront des modèles pour leurs communautés respectives e
 
 #### Pour les finalistes:
 
-* US$1 500 chacun
+* US$ 1 500 chacun
 * Matériel informatique et électronique
 * Participation au Sommet AfricTivistes de Nairobi en Octobre 2021
 * Networking

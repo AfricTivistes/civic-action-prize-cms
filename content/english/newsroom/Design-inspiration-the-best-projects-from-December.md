@@ -1,6 +1,6 @@
 ---
 title: "#AfricTivistesPrize "
-date: 2021-05-21T14:38:51.004Z
+date: 2021-05-31T16:01:13.350Z
 image: images/blog/blog-post-04.jpg
 category:
   - Communicate

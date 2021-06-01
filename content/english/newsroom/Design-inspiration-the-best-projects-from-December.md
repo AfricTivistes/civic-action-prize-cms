@@ -7,11 +7,11 @@ category:
 feature_image: images/blog/blog-details-image.jpg
 author: Sokhna Cisse
 ---
-AfricTivistes wants to reward young models and actors of change to encourage emulation among all African youth. We intend, through the **AfricTivistes Civic Action Prize**, to honor the continent's citizen champions. We want to highlight the potential of African youth as drivers of development and actors of change. For more than a decade, the continent's youth have been competing with each other in building citizenship and acquiring new skills. Better still, they are committed to meeting the demands of democracy, governance and transparency through citizen projects carried out individually or collectively.
+AfricTivistes seeks to reward young role models and actors of change to encourage emulation among all African youth. We intend, through the **AfricTivistes Civic Action Prize**, to honour the continent's citizen champions. We want to highlight the potential of African youth as drivers of development and actors of change. For more than a decade, the continent's youth have been emulating each other in building citizenship and acquiring new skills. Better still, they are committed to meeting the demands of democracy, governance and transparency through citizen projects carried out individually or collectively.
 
 > The first edition of the AfricTivistes Civic Action Prize will be awarded during the 3rd AfricTivistes Summit #Nairobi2021, in October in Kenya.
 
-Until now, AfricTivistes honoured the best journalists and bloggers who are active in civic engagement through the **PRIX ANNA GUEYE** in honour of our late comrade Anna Gueye. AfricTivistes is going further now to lift up, through this Prize, the young Africans who have made the most impact on the continent for initiating innovative projects or civic actions that brought about change in their respective communities.
+Until now, AfricTivistes awarded the best journalists and bloggers who are active in civic engagement through the **PRIX ANNA GUEYE** in honour of our late comrade Anna Gueye. Today, AfricTivistes is going a step further to lift up, through this Prize, the young Africans who have made the most impact on the continent for initiating innovative projects or civic actions that brought about change in their respective communities.
 
 We look forward to discovering your citizen champions. As long as they are young Africans, actors of change and initiators of projects with high social impact.
 

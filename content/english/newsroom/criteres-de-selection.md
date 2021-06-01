@@ -1,6 +1,6 @@
 ---
 title: Selection criteria
-date: 2021-05-31T16:03:29.082Z
+date: 2021-05-30T16:03:29.082Z
 image: images/blog/blog-post-04.jpg
 category:
   - Press release

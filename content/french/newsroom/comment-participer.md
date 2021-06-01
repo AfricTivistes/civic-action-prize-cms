@@ -7,7 +7,7 @@ category:
 feature_image: images/blog/blog-details-image.jpg
 author: Sokhna Cisse
 ---
-Tout ce que vous avez à faire est de nominer une personne de votre choix en remplissant le formulaire mis en ligne sur le site [prize.africtivistes.org](https://prize.africtivistes.org/fr/) avant le 16 juillet 2021. Votre champion citoyen devra réaliser un projet innovant à fort impact et ayant une dynamique communautaire.
+Tout ce que vous avez à faire est de nominer une personne de votre choix en remplissant le formulaire mis en ligne sur le site [prize.africtivistes.org](https://prize.africtivistes.org/fr/nominated/) avant le 16 juillet 2021. Votre champion citoyen devra réaliser un projet innovant à fort impact et ayant une dynamique communautaire.
 
 > Vous avez l’occasion de mettre en valeur toute personne que vous jugez méritante.
 

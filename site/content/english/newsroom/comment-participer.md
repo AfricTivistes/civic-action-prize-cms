@@ -7,7 +7,7 @@ category:
 feature_image: images/blog/blog-details-image.jpg
 author: Sokhna Cisse
 ---
-All you have to do is nominate a person of your choice by filling out the form on the website *[prize.africtivistes.com](/)* before July 16, 2021. Your Citizen Champion will have carried out a high-impact, innovative project with a community dynamic.
+All you have to do is nominate a person of your choice by filling out the form on the website *[prize.africtivistes.org](https://prize.africtivistes.org/nominated/)* before July 16, 2021. Your Citizen Champion will have carried out a high-impact, innovative project with a community dynamic.
 
 > You have the opportunity to nominate anyone you deem worthy and highlight their work.
 

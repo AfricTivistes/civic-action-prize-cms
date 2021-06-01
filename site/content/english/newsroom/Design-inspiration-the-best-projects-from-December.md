@@ -11,7 +11,7 @@ AfricTivistes wants to reward young models and actors of change to encourage emu
 
 > The first edition of the AfricTivistes Civic Action Prize will be awarded during the 3rd AfricTivistes Summit #Nairobi2021, in October in Kenya.
 
-Until now, AfricTivistes honoured the best journalists and bloggers who are active in civic engagement through the **PRIX ANNA GUEYE** in honor of our late comrade Anna Gueye. AfricTivistes is going further now to elevate, through this Prize, the young Africans who have made the most impact on the continent for initiating innovative projects or civic actions that brought about change in their respective communities.
+Until now, AfricTivistes honoured the best journalists and bloggers who are active in civic engagement through the **PRIX ANNA GUEYE** in honour of our late comrade Anna Gueye. AfricTivistes is going further now to lift up, through this Prize, the young Africans who have made the most impact on the continent for initiating innovative projects or civic actions that brought about change in their respective communities.
 
 We look forward to discovering your citizen champions. As long as they are young Africans, actors of change and initiators of projects with high social impact.
 

@@ -1,5 +1,5 @@
 enable : true
-title : "You have …. left"
+title : "Remaining days"
 subtitle : "To nominate your Citizen Champion!"
 btnText : "Nominate"
 countdownYear : 2021

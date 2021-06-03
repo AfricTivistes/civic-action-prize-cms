@@ -19,15 +19,15 @@
 - id: nationalite
   translation: "Nationality"
 - id: email
-  translation: "E-mail"
+  translation: "Email"
 - id: telephone
-  translation: "Telephone(country code number)"
+  translation: "Telephone(country code)"
 - id: nsexe
   translation: Gender
 - id: nsexe1
-  translation: Man
+  translation: Male
 - id: nsexe2
-  translation: Woman
+  translation: Female
 - id: nage
   translation: Age range
 - id: nage1
@@ -37,7 +37,7 @@
 - id: nage3
   translation: 35 - 40 years
 - id: nage4
-  translation: I don't know his age
+  translation: I don't know his/her age
 - id: npays
   translation: Country of residence
 - id: npays1
@@ -55,9 +55,9 @@
 - id: npays7
   translation: Burundi
 - id: npays8
-  translation: Cameroun
+  translation: Cameroon
 - id: npays9
-  translation: Cap-Vert
+  translation: Cape Verde
 - id: npays10
   translation: Central African Republic
 - id: npays11
@@ -81,7 +81,7 @@
 - id: npays20
   translation: Gabon
 - id: npays21
-  translation: Gambia
+  translation: The Gambia 
 - id: npays22
   translation: Ghana
 - id: npays23
@@ -97,7 +97,7 @@
 - id: npays28
   translation: Liberia
 - id: npays29
-  translation: Libye
+  translation: Libya
 - id: npays30
   translation: Madagascar
 - id: npays31
@@ -107,7 +107,7 @@
 - id: npays33
   translation: Maroc
 - id: npays34
-  translation: Maurice
+  translation: Mauritius
 - id: npays35
   translation: Mauritania
 - id: npays36
@@ -133,7 +133,7 @@
 - id: npays46
   translation: Somalia
 - id: npays47
-  translation: Soudan
+  translation: Sudan
 - id: npays48
   translation: South Sudan
 - id: npays49
@@ -157,13 +157,13 @@
 - id: nweb
   translation: Website
 - id: nfacebook
-  translation: Facebook Page
+  translation: Facebook
 - id: ntwitter
-  translation: Twitter Page
+  translation: Twitter
 - id: nprojet
   translation: Name of the initiative or project
 - id: nsecteur
-  translation: "Sector(s) of activity of the initiative or project (note: max 3 answers)"
+  translation: "Sector(s) of activity of the initiative or project (max 3 answers)"
 - id: nsecteur1
   translation: Social
 - id: nsecteur2
@@ -173,7 +173,7 @@
 - id: nsecteur4
   translation: Human Rights
 - id: nsecteur5
-  translation: Sport
+  translation: Sports
 - id: nsecteur6
   translation: Education
 - id: nsecteur7
@@ -193,13 +193,13 @@
 - id: ncomment
   translation: How did you find out about the initiative or project?
 - id: ndescription
-  translation: "Brief description of actions [objectives, targets, types of actions, innovation, etc. ] (250 words maximum) "
+  translation: "Brief description of actions [objectives, targets, types of activities, innovation, etc. ] (250 words maximum) "
 - id: npourquoi
   translation: "Why do you think this person should receive the AfricTivistes Prize? (250 words maximum)"
 - id: npayss
-  translation: "Country of intervention (you can choose one or multiple countries)"
+  translation: "Country(ies) of intervention"
 - id: npayss1
-  translation: If the initiative/project covers several countries, please list them
+  translation: If the initiative/project covers several countries,please list them
 - id: naction
   translation: What is the scope of the nominee's actions?
 - id: naction1
@@ -225,11 +225,11 @@
 - id: ncouche5
   translation: Seniors
 - id: nappui
-  translation: Did the project (initiative) receive any support in its implementation?
+  translation: Did the project receive any support in its implementation?
 - id: nappuitype
-  translation: If so, what type of support or coaching did they receive?
+  translation: If yes, what type of support or coaching did they receive?
 - id: nreplicable
-  translation: Are the activities replicable in other African countries or areas?
+  translation: Are the activities replicable in other African countries?
 - id: oui
   translation: "Yes"
 - id: non
@@ -237,4 +237,4 @@
 - id: langue
   translation: en
 - id: envoyerMessage
-  translation: Submit application
+  translation: Submit

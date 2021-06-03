@@ -12,14 +12,14 @@ secondary_button_url  = "nominated"
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
-title               = "Don’t be shy. Nominated someone"
+title               = "Don’t be shy !   Nominate someone."
 primary_button      = "Nominate Someone"
 primary_button_url  = "nominated"
 
 [newsroom]
 enable    = true
 title     = "NEWSROOM"
-subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+subtitle  = "Latest news on AfricTivistes Civic Action Prize."
 
 [footer]
 # Footer Contact Info

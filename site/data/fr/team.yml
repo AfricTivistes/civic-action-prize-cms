@@ -1,67 +1,81 @@
 enable  : true
-title   : Comité de sélection
+title   : Comité de sélection / Jury final 
 members  :
-  - image       : images/team/team-member.jpg
+  - image       : images/team/aya.jpg
     name        : Aya Chebbi
-    designation : Tunisie
+    designation : Activiste et Envoyée Spéciale de l’Union Africaine pour les Jeunes - Tunisie
     facebook    : http://facebook.com/
     twitter     : https://twitter.com/
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/boniface.jpg
     name        : Boniface Mwengui
-    designation : Kenya
+    designation : Photojournaliste, Politicien et Activiste - Kenya
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : Ibrahim Sanusi
-    designation : Éthiopie
+  - image       : images/team/ibraheem.jpg
+    name        : Ibraheem Sanusi
+    designation : Conseiller en coopération au développement - Éthiopie
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/jean.jpg
     name        : Jean Jacques Lumumba
-    designation : RDC
+    designation : Activiste Anti Corruption, Banquier et lanceur d’alerte - RD Congo
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/justin.jpg
     name        : Justin Arenstein
-    designation : Code4Africa (South Africa)
+    designation : CEO Code4Africa - Afrique du Sud
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/papa.jpg
     name        : Papa Ismaila Dieng
-    designation : Journaliste-blogueur, lauréat 2018 Prix Anna Gueye (Sénégal)
+    designation : AfricTivistes, Journaliste-blogueur, lauréat 2018 Prix Anna Gueye - Sénégal
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/rosebell.jpg
     name        : Rosebell Kagumire
-    designation : Journaliste, lauréate Prix Anna Gueye, 2018, (Ouganda)
+    designation : AfricTivistes, Journaliste-blogueur, lauréate 2018 Prix Anna Gueye - Ouganda
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/salieu.jpg
     name        : Salieu Taal
-    designation : President of Gambian Bar Association (Gambia)
+    designation : Bâtonnier de l’Ordre des Avocats de la Gambie, Initiateur de GambiaHasDecided - Gambie
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
+  - image       : images/team/Safwene.jpg
     name        : Safwene Grira
-    designation : journaliste (Tunisie)
+    designation : AfricTivistes, Journaliste - Tunisie
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+
+  - image       : images/team/Nassuna.jpg
+    name        : Rizzan Nassuna
+    designation : Experte en évaluation de la démocratie et en gouvernance, Département des affaires politiques, Commission de l'Union africaine - Ouganda
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com
+
+  - image       : images/team/Alioune.jpg
+    name        : Alioune TINE
+    designation : Fondateur de AfrikaJom - Sénégal
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : htnwjnnmvm

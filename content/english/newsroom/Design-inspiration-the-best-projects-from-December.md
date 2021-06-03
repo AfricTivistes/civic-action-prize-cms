@@ -1,10 +1,10 @@
 ---
 title: "#AfricTivistesPrize "
 date: 2021-06-01T13:10:02.251Z
-image: /images/1.png
+image: /images/red-and-white-quotes-twitter-post.png
 category:
   - Communicate
-feature_image: /images/1.png
+feature_image: /images/red-and-white-quotes-twitter-post.png
 author: Sokhna Cisse
 ---
 AfricTivistes seeks to reward young role models and actors of change to encourage emulation among all African youth. We intend, through the **AfricTivistes Civic Action Prize**, to honour the continent's citizen champions. We want to highlight the potential of African youth as drivers of development and actors of change. For more than a decade, the continent's youth have been emulating each other in building citizenship and acquiring new skills. Better still, they are committed to meeting the demands of democracy, governance and transparency through citizen projects carried out individually or collectively.

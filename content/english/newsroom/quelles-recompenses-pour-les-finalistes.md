@@ -1,10 +1,10 @@
 ---
 title: Rewards
 date: 2021-05-29T16:04:04.767Z
-image: images/blog/blog-post-04.jpg
+image: /images/red-and-white-quotes-twitter-post.png
 category:
   - Press release
-feature_image: images/blog/blog-details-image.jpg
+feature_image: /images/red-and-white-quotes-twitter-post.png
 author: Sokhna Cisse
 ---
  

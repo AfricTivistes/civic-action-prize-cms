@@ -1,12 +1,12 @@
 enable        : true
 title         : "Partenaires"
 client_logos  : 
-  ["images/clients/cfi_opt.png", 
-  "images/clients/raddho_opt.jpg", 
-  "images/clients/africansrissing_opt.png",
-   "images/clients/wathi_opt.png", 
-   "images/clients/osiwa_opt.png", 
-   "images/clients/pplaaf_opt.png", 
-   "images/clients/africajom_opt.jpg", 
-   "images/clients/clemson_opt.png", 
-   "images/clients/article19_opt.jpg",]
+ ["images/clients/cfi.png",  
+ "images/clients/wathi.png",
+ "images/clients/raddho.jpg",
+ "images/clients/pplaaf.png",
+ "images/clients/osiwa.png",
+ "images/clients/africajom.jpg",
+ "images/clients/clemson.png", 
+ "images/clients/article19.jpg",
+ "images/clients/africansrissing.png",] 

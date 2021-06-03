@@ -1,10 +1,10 @@
 ---
 title: How to participate?
 date: 2021-05-31T16:02:32.175Z
-image: images/blog/blog-post-04.jpg
+image: /images/2.png
 category:
   - Press release
-feature_image: images/blog/blog-details-image.jpg
+feature_image: /images/2.png
 author: Sokhna Cisse
 ---
 All you have to do is nominate a person of your choice by filling out the form on the website *[prize.africtivistes.org](https://prize.africtivistes.org/nominated/)* before July 16, 2021. Your Citizen Champion will have carried out a high-impact, innovative project with a community dynamic.

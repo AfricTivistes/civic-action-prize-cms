@@ -1,10 +1,10 @@
 ---
 title: "#AfricTivistesPrize"
 date: 2021-05-28T13:13:00.120Z
-image: /images/img_0133.jpg
+image: /images/red-and-white-quotes-twitter-post.png
 category:
   - Communiqué
-feature_image: /images/img_0133.jpg
+feature_image: /images/red-and-white-quotes-twitter-post.png
 author: Sokhna Cisse
 ---
 AfricTivistes veut récompenser les jeunes modèles et acteurs de changement pour favoriser une émulation chez l’ensemble de la jeunesse africaine. Nous comptons, à travers le **Prix AfricTivistes pour l’Action Civique**, honorer les champions citoyens du continent. Nous voulons démontrer le potentiel de la jeunesse africaine en tant que moteur de développement et acteur de changement. D’autant que depuis plus d’une décennie, les jeunes du continent rivalisent d’ingéniosité dans la construction de la citoyenneté et l’acquisition de nouvelles compétences. Mieux, ils se montrent engagés pour répondre à des exigences de démocratie, de gouvernance et de transparence à travers des projets citoyens portés individuellement ou collectivement.

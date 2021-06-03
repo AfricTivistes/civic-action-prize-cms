@@ -1,44 +1,77 @@
 enable  : true
-title   : Jury members
+title   : Selection committee / Final jury
 members  :
-  - image       : images/team/team-member.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+  - image       : images/team/aya.jpg
+    name        : Aya Chebbi
+    designation : Activist and Youth Representative of the African Union - Tunisia
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
+  - image       : images/team/boniface.jpg
+    name        : Boniface Mwengui
+    designation : Photojournalist, Politician et Activist - Kenya
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
+  - image       : images/team/ibraheem.jpg
+    name        : Ibraheem Sanusi
+    designation : Development Cooperation Advisor - Ethiopia
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
+  - image       : images/team/jean.jpg
+    name        : Jean Jacques Lumumba
+    designation : Anti-Corruption Activist, Banker and Whistleblower - DR Congo
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/justin.jpg
+    name        : Justin Arenstein
+    designation : CEO Code4Africa - South Africa
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
+  - image       : images/team/papa.jpg
+    name        : Papa Ismaila Dieng
+    designation : AfricTivistes, Journalist-blogger, 2018 Prix Anna Gueye winner - Senegal
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
+  - image       : images/team/rosebell.jpg
+    name        : Rosebell Kagumire
+    designation : AfricTivistes, Journalist-blogger, 2018 Prix Anna Gueye winner - Uganda
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+
+  - image       : images/team/salieu.jpg
+    name        : Salieu Taal
+    designation : President of the Gambia Bar Association, Initiator of GambiaHasDecided - The Gambia
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Safwene.jpg
+    name        : Safwene Grira
+    designation : AfricTivistes, Journalist - Tunisia
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/Nassuna.jpg
+    name        : Rizzan Nassuna
+    designation : Democracy Assessment and Governance Expert, Department of Political Affairs, African Union Commission - Uganda
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com
+
+  - image       : images/team/Alioune.jpg
+    name        : Alioune TINE
+    designation : Founder of AfrikaJom - Senegal
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com

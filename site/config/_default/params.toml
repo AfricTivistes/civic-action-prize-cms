@@ -2,10 +2,10 @@
 logo = "images/logo.png"
 dateFormat = "26 FEB 1994"
 # Meta data
-description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+description = "AfricTivistes Civic Action Prize | Prix AfricTivistes pour l'action civique"
 author = "AfricTivistes"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "G-6S69LEB4Q1"
 
 # Navbar Action Button
 [navAction]

@@ -5,10 +5,10 @@ counter_item:
     number: "200+"
 
   - title: "Countries"
-    number: "40"
+    number: "54"
 
   - title: "Nominees"
-    number: "26"
+    number: "58"
 
   - title: "Finalists"
     number: "5"

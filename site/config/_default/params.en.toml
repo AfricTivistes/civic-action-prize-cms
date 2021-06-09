@@ -21,6 +21,11 @@ enable    = true
 title     = "NEWSROOM"
 subtitle  = "Latest news on AfricTivistes Civic Action Prize."
 
+[press]
+enable    = true
+title     = "THE MEDIA IS TALKING ABOUT IT"
+subtitle  = ""
+
 [footer]
 # Footer Contact Info
 [footer.contactInfo]

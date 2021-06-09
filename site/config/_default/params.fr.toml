@@ -21,6 +21,12 @@ enable    = true
 title     = "NEWSROOM"
 subtitle  = "Retrouvez toute l'actualité sur le Prix AfricTivistes pour l'Action Civique"
 
+[press]
+enable    = true
+title     = "LA PRESSE EN PARLE"
+subtitle  = ""
+
+
 [footer]
 # Footer Contact Info
 [footer.contactInfo]

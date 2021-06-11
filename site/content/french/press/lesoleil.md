@@ -1,5 +1,5 @@
 ---
-title: "LE SOLEIL(SENEGAL)"
+title: "Le soleil"
 date: 2021-06-09T13:13:00.120Z
 image: /images/lesoleil.png
 category:

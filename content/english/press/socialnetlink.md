@@ -1,5 +1,5 @@
 ---
-title: "SOCIALNETLINK(SENEGAL)"
+title: "Socialnetlink"
 date: 2021-06-09T13:10:02.251Z
 image: /images/socialnetlink.png
 category:

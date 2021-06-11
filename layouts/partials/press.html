@@ -10,15 +10,15 @@
           </div>
         </div>
         {{ range first 4 (where $.Site.RegularPages "Type" "press") }}
-        <div class="col-lg-6 col-md-10 mx-auto">
+        <div class="col-lg-3 col-md-10 mx-auto">
           <div class="site-project-item">
             <div class="site-project-item-thumb">
-              <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
-            </div>
-            <div class="site-project-item-content">
-              <span>{{ delimit .Params.category ", " }}</span>
-              <h3>{{ .Title }}</h3>
-              <a href="{{ .Permalink }}" class="read-more">{{ i18n "readmore" }}</a>
+              <div class="site-blog-post-content">
+                <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+                <span>{{ delimit .Params.category ", " }}</span>
+                <h3>{{ .Title }}</h3>
+                <a href="{{ .Permalink }}" class="read-more">{{ i18n "readmore" }}</a>
+              </div>
             </div>
           </div>
         </div>

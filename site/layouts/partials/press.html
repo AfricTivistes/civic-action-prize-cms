@@ -1,0 +1,34 @@
+{{ with .Site.Params.press }}
+  {{ if .enable }}
+  <section class="site-project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>{{ .title }}</h2>
+            <p>{{ .subtitle }}</p>
+          </div>
+        </div>
+        {{ range first 4 (where $.Site.RegularPages "Type" "press") }}
+        <div class="col-lg-3 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+                <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+                <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+              <div class="site-blog-post-content">
+                <span>{{ delimit .Params.category ", " }}</span>
+                <h5>{{ .Title }}</h5>
+                <a href="{{ .Permalink }}" class="read-more">{{ i18n "readmore" }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+        <div class="col-12 text-center text-lg-left">
+          <a href="press" class="site-project-cta">{{ i18n "morenews" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

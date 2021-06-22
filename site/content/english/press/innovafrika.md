@@ -1,5 +1,5 @@
 ---
-title: "Innoafrika"
+title: "Innovafrica"
 date: 2021-06-09T13:13:00.120Z
 image: /images/innovafrika.png
 category:

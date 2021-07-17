@@ -11,7 +11,7 @@
   name    = "Newsroom"
   url     = "newsroom"
   weight  = 3
-[[nav]]
-  name    = "Nominate Someone"
-  url     = "nominated"
-  weight  = 4
+# [[nav]]
+#   name    = "Nominate Someone"
+#   url     = "nominated"
+#   weight  = 4

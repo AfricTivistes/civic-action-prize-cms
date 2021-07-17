@@ -1,7 +1,7 @@
 enable : true
-title : "Remaining days"
-subtitle : "To nominate your Citizen Champion!"
+title : "Remaining days..."
+subtitle : "Before voting begins!"
 btnText : "Nominate"
 countdownYear : 2021
-countdownMonth : 7
-countdownDay  : 16
+countdownMonth : 8
+countdownDay  : 9

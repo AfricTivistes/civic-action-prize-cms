@@ -26,6 +26,11 @@ enable    = true
 title     = "LA PRESSE EN PARLE"
 subtitle  = ""
 
+[comitejury]
+enable    = true
+title     = "COMITÉ DE SÉLECTION / JURY FINAL"
+subtitle  = ""
+
 
 [footer]
 # Footer Contact Info

@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h1>{{ .Title }}</h1>
+        <p>
+          {{ .Params.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-blog">
+  <div class="container">
+    <div class="row">
+      {{ range (.Paginator 4).Pages }}
+        <div class="col-lg-3 col-md-10 mx-auto">
+          <div class="site-project-item">
+            <div class="site-project-item-thumb">
+                <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+                <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+              <div class="site-blog-post-content">
+                <span>{{ delimit .Params.category ", " }}</span>
+                <h5>{{ .Title }}</h5>
+                <a href="{{ .Permalink }}" class="read-more">{{ i18n "readmore" }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+      <div class="col-12">
+        <div class="site-blog-pagination">
+          {{ template "_internal/pagination.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- {{ partial "call-to-action.html" . }} -->
+
+{{ end }}

@@ -26,6 +26,11 @@ enable    = true
 title     = "THE MEDIA IS TALKING ABOUT IT"
 subtitle  = ""
 
+[comitejury]
+enable    = true
+title     = "SELECTION COMMITTEE / FINAL JURY"
+subtitle  = ""
+
 [footer]
 # Footer Contact Info
 [footer.contactInfo]

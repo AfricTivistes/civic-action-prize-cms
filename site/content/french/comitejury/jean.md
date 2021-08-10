@@ -1,10 +1,10 @@
 ---
 title: "Jean Jacques Lumumba"
 date: 2021-06-13T13:13:00.120Z
-image: /images/team/jean.jpg
+image: /images/team/jean.jpeg
 category:
   - 
-feature_image: /images/team/jean.jpg
+feature_image: /images/team/jean.jpeg
 author: Abdoulaye Guene
 ---
 

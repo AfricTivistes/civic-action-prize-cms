@@ -1,10 +1,10 @@
 ---
 title: "The world news"
 date: 2021-06-09T13:13:00.120Z
-image: /images/theworldnews.png
+image: /images/theworldnewss.png
 category:
   - Medias
-feature_image: /images/theworldnews.png
+feature_image: /images/theworldnewss.png
 author: Abdoulaye Guene
 ---
 Le prix pour l’Action civique sera décerné pour la première fois lors du 3ème sommet AfricTivistes qui se tiendra à Nairobi (Kenya) en octobre 2021.

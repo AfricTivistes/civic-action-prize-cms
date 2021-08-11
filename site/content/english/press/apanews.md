@@ -1,10 +1,10 @@
 ---
 title: "APA news"
 date: 2021-06-09T13:13:00.120Z
-image: /images/apanews.png
+image: /images/apanewss.png
 category:
   - Medias
-feature_image: /images/apanews.png
+feature_image: /images/apanewss.png
 author: Abdoulaye Guene
 ---
 APA-Dakar (Sénégal) Par Edouard Touré

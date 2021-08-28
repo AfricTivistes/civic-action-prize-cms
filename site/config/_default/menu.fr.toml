@@ -11,7 +11,7 @@
   name    = "Newsroom"
   url     = "/fr/newsroom"
   weight  = 3
-# [[nav]]
-#   name   = "Nominer quelqu'un"
-#   url     = "/fr/nominated"
-#   weight  = 4
+[[nav]]
+  name   = "Vote"
+  url     = "/fr/vote"
+  weight  = 4

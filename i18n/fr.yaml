@@ -238,3 +238,13 @@
   translation: fr
 - id: envoyerMessage
   translation: Soumettre la candidature
+- id: vote
+  translation: Je vote
+- id: vote1
+  translation: Vote pour
+- id: vote2
+  translation: Écrire votre email
+- id: vote3
+  translation: Cliquer sur le bouton "Je vote"
+- id: vote4
+  translation: Allez dans votre mail, confirmé

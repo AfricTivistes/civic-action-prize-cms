@@ -6,15 +6,15 @@ heading               = "Qui inspirent et changent les communautés"
 tagline               = "Élevez les personnes"
 primary_button        = "À propos"
 primary_button_url    = "/fr/about"
-secondary_button      = "Nominer"
-secondary_button_url  = "/fr/nominated"
+secondary_button      = "Vote"
+secondary_button_url  = "/fr/vote"
 
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
-title               = "Ne soyez pas timide ! Nominez quelqu'un."
-primary_button      = "Nominer quelqu'un"
-primary_button_url  = "/fr/nominated"
+title               = "Ne soyez pas timide ! votez pour quelqu'un."
+primary_button      = "Vote"
+primary_button_url  = "/fr/vote"
 
 [newsroom]
 enable    = true

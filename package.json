@@ -24,6 +24,7 @@
   "homepage": "https://github.com/AfricTivistes/civic-action-prize#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "google-spreadsheet": "^3.1.15"
+    "google-spreadsheet": "^3.1.15",
+    "jsonwebtoken": "^8.5.1"
   }
 }

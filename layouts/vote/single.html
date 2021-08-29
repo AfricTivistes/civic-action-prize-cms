@@ -21,7 +21,9 @@
                   <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
                 </div>
                 <div class="col-12">
-                  <input type="hidden" name="langue" id="langue" value="{{ i18n " langue" }}">
+                  <input type="hidden" name="name" id="name" value="{{ .Title }}">
+                  <input type="hidden" name="link" id="link" value="{{ .Page.Permalink }}">
+                  <input type="hidden" name="langue" id="langue" value="{{ i18n "langue" }}">
                 </div>
                 <div class="col-12 alert" id="contact-form-status" role="alert"></div>
                 <div class="col-12" id="contact-form-button">
@@ -36,6 +38,9 @@
                 </div>
               </div>
             </form>
+            <div id="vote-form">
+              <h4>Merci d'avoir voté pour moi..</h4>
+            </div>
           </div>
           <div class="site-about-description">
             <h1>{{.Title}}</h1>

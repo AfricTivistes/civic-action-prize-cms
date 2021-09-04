@@ -1,19 +1,19 @@
-require('dotenv').config()
-var jwt = require('jsonwebtoken')
+require("dotenv").config();
+var jwt = require("jsonwebtoken");
 
-const { JWT_SECRET } = process.env
+const {JWT_SECRET} = process.env;
 
-const creatKey = async (data) => {
+const creatKey = async(data) => {
 
-    const { email, name, link, langue } = data.data
-    const user = {email: email, name:name, link,link ,langue: langue}
-    const token = jwt.sign(user, JWT_SECRET, { expiresIn: '1h' })
+  const {email, name, link, langue} = data.data;
+  const user = {email: email, name:name, link:link, langue:langue};
+  const token = jwt.sign(user, JWT_SECRET, {expiresIn: "1h"});
 
-    return new Promise((resolve) => {
+  return new Promise((resolve) => {
 
-        resolve("key", token)
+    resolve({key:token, langue: langue});
 
-    })
-}
+  });
+};
 
-module.exports = creatKey
+module.exports = creatKey;

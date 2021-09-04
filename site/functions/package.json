@@ -25,6 +25,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "google-spreadsheet": "^3.1.15",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "sparkpost": "^2.1.4"
   }
 }

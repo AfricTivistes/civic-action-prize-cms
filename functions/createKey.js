@@ -11,7 +11,7 @@ const creatKey = async(data) => {
 
   return new Promise((resolve) => {
 
-    resolve({key:token, langue: langue});
+    resolve({key: token, langue: langue, email: email});
 
   });
 };

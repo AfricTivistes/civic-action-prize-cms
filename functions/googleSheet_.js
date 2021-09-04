@@ -19,12 +19,19 @@ const formatDate = (date, format) => {
 };
 
 const addTosheet = async(data) => {
-  const {email, name, link, langue} = data;
 
-  const doc = new GoogleSpreadsheet(GOOGLE_SHEET);
+  const {nom, nationalite, email, telephone, nominenom, nominesexe, nomineage, nominepays, nville, nemail, ntelephone, nweb, nfacebook, ntwitter, nprojet, nsecteur, nannee, nduree, ncomment, ndescription, npourquoi, npayss, naction, ncouche, nappui, nappuitype, nreplicable, langue} = data.data;
+
+  doc = new GoogleSpreadsheet(GOOGLE_SHEET);
 
   const today = new Date();
   const horodateur = formatDate(today, "dd/mm/yyyy hh:mn:ss");
+
+  if (Array.isArray(nsecteur)) {
+    nominesecteur = nsecteur.join(" | ");
+  } else {
+    nominesecteur = nsecteur;
+  }
 
   await doc.useServiceAccountAuth({
     client_email: GOOGLE_SERVICE_ACCOUNT_EMAIL,
@@ -36,8 +43,9 @@ const addTosheet = async(data) => {
   const sheet = doc.sheetsByIndex[0]; // or use doc.sheetsById[id] or doc.sheetsByTitle[title]
 
   const moreRows = await sheet.addRows([
-    {horodateur, email, name, link, langue}
+    {horodateur, nom, nationalite, email, telephone, nominenom, nominesexe, nomineage, nominepays, nville, nemail, ntelephone, nweb, nfacebook, ntwitter, nprojet, nominesecteur, nannee, nduree, ncomment, ndescription, npourquoi, npayss, naction, ncouche, nappui, nappuitype, nreplicable, langue}
   ]);
+
   return new Promise((resolve) => {
 
     resolve("Ajouter");

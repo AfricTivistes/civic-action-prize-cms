@@ -1,5 +1,6 @@
 require("dotenv").config();
-var jwt = require("jsonwebtoken");
+const addTosheet = require("./googleSheet");
+const jwt = require("jsonwebtoken");
 
 const {JWT_SECRET, BASE_URL} = process.env;
 
@@ -8,17 +9,22 @@ exports.handler = async(event, context, callback) => {
   const key = event.queryStringParameters.key;
 
   try {
-    var user = jwt.verify(key, JWT_SECRET);
+    const user = jwt.verify(key, JWT_SECRET);
+    await addTosheet(user).then(
+      (result) => {
+        callback(null, {
+          statusCode: 302,
+          headers: {
+            "Location": `${BASE_URL}${user.link}?vote=yes`
+          },
+        });
+      });
+  } catch (err) {
     return {
       statusCode: 302,
       headers: {
-        "Location": `${BASE_URL}${user.link}?vote=yes`
+        "Location": `${BASE_URL}/vote/`
       },
-    };
-  } catch (err) {
-    return {
-      statusCode: 200,
-      body: "Error"
     };
   }
 };

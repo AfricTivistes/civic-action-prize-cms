@@ -1,22 +1,22 @@
 require("dotenv").config();
 const SparkPost = require("sparkpost");
-const { SPARKPOST, BASE_URL} = process.env;
+const {SPARKPOST, BASE_URL} = process.env;
 const client = new SparkPost(SPARKPOST);
 
 const sendEmail = (data) => {
-  const {key, langue} = data;
+  const {key, langue, email} = data;
   const title = {en: "Confirm your choice!", fr: "Confirmez votre choix !"}[langue];
   const text = {
     en: "Please click on the button below or the link to confirm your vote.",
     fr: "Veuillez cliquer sur le bouton ci-dessous ou sur le lien pour confirmer votre vote."
   }[langue];
-  const btn = { en: "Confirm", fr: "Confirmer"}[langue];
+  const btn = {en: "Confirm", fr: "Confirmer"}[langue];
   const link = `${BASE_URL}/api/voteverify?key=${key}`;
-  const email = client.transmissions
+  client.transmissions
     .send({
       content: {
         from: "civic-ap@africtivistes.org",
-        subject: "Confirmer votre Vote !",
+        subject: title,
         html: `<!DOCTYPE html>
 <html
   lang="${langue}"
@@ -129,7 +129,7 @@ const sendEmail = (data) => {
             class="logo"
             width="140"
             height="56"
-            alt="SparkPost"
+            alt="AfricTivistes Civic Action Prize"
             src="https://prize.africtivistes.org/images/logo.png"
           />
 
@@ -139,7 +139,7 @@ const sendEmail = (data) => {
           <p style="text-align: center;">
             <a href="${link}" class="btn-primary">${btn}</a>
           </p>
-          <p style="text-align: center;">
+          <p style="word-wrap: break-word;">
             <a href="${link}">${link}</a>
           </p>
           <hr />
@@ -161,9 +161,12 @@ const sendEmail = (data) => {
   </body>
 </html>`
       },
-      recipients: [{address: "dofbi@africtivistes.org"}]
+      recipients: [{address: email}]
+    }).then((data) => console.log(data))
+    .catch((err) => {
+      console.log("Whoops! Something went wrong");
+      console.log(err);
     });
-  email.then((data) => console.log(data));
 };
 
 module.exports = sendEmail;

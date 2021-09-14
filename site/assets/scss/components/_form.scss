@@ -1,0 +1,20 @@
+#contact-form{
+    background-color: $white;
+    padding: 1em;
+
+    strong{
+        color: $primary-color;
+    }
+}
+
+#contact-form-button{
+    text-align: center;
+}
+
+#vote-form{
+    text-align: center;
+    padding-top: 1em;
+    h4{
+      color: $white;
+    }
+}

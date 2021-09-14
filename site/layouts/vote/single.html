@@ -1,0 +1,69 @@
+{{ define "main" }}
+
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-about-wrapper">
+          <div class="site-about-company">
+            <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            <form id="contact-form" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+              <div class="row">
+                <div class="col-12">
+                  <p>{{ i18n "vote1" }} <strong>{{ .Title }}</strong></p>
+                  <ol>
+                    <li>{{ i18n "vote2" }}</li>
+                    <li>{{ i18n "vote3" }}</li>
+                    <li>{{ i18n "vote4" }}</li>
+                  </ol>
+                </div>
+                <div class="col-12">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
+                </div>
+                <div class="col-12">
+                  <input type="hidden" name="name" id="name" value="{{ .Title }}">
+                  <input type="hidden" name="link" id="link" value="{{ .Page.Permalink }}">
+                  <input type="hidden" name="langue" id="langue" value="{{ i18n "langue" }}">
+                </div>
+                <div class="col-12 alert" id="contact-form-status" role="alert"></div>
+                <div class="col-12" id="contact-form-button">
+                  <div data-netlify-recaptcha="true"></div>
+                  <button type="submit" class="btn btn-primary">
+                    <span class="btn-area">
+                      <span data-text="{{ i18n "vote" }}">
+                        {{ i18n "vote" }}
+                      </span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </form>
+            <div id="vote-form">
+              <h4>Merci d'avoir voté pour moi..</h4>
+            </div>
+          </div>
+          <div class="site-about-description">
+            <h1>{{.Title}}</h1>
+            <p>
+              {{ .Description | safeHTML}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 site-about-description" >
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

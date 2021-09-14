@@ -7,4 +7,8 @@ category:
 feature_image: /images/red-and-white-quotes-twitter-post.png
 author: Sokhna Cisse
 ---
-Le concours est ouvert aux ressortissants des 54 pays africains âgés de 40 ans au plus. Ils doivent réaliser des projets innovants à fort impact social ou communautaire. Plusieurs étapes vont précéder l’organisation et la remise du Prix AfricTivistes pour l’Action Civique. Ainsi, il sera organisé une présélection à l’issue de laquelle cinq profils seront choisis et mis en compétition en direction du 3ème Sommet AfricTivistes de Nairobi en Octobre 2021. Ils seront ensuite départagés par un vote du public (60%) combiné à celui du jury final (40%). L’annonce des gagnants aura lieu à la soirée de clôture du Sommet de Nairobi.
+<!--StartFragment-->
+
+Le concours est ouvert aux ressortissants des 54 pays africains âgés de 40 ans au plus. Ils doivent réaliser des projets innovants à fort impact social ou communautaire. Plusieurs étapes vont précéder l’organisation et la remise du Prix AfricTivistes pour l’Action Civique. A la suite d’un appel à nominations, 10 profils vont être choisis par un comité de sélection. Il sera organisé ensuite un vote du public (60%) qui, combiné à la délibération d’un jury institutionnel (40%), permettra de désigner les 5 finalistes qui prendront part au 3ème Sommet d’AfricTivistes. En définitive, un Jury Spécial désignera le lauréat du Prix lors du dîner de clôture du Sommet AfricTivistes, en Octobre 2021 à Nairobi.
+
+<!--EndFragment-->

@@ -1,5 +1,5 @@
 ---
-title: "Salieu Taal"
+title: "Gilles Yabi"
 date: 2021-06-19T14:13:00.120Z
 image: /images/team/yabi.jpg
 category:

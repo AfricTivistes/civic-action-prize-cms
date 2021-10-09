@@ -44,6 +44,7 @@
           </div>
           <div class="site-about-description">
             <h1>{{.Title}}</h1>
+            <h3>{{.Params.Projet}}</h3>
             <p>
               {{ .Description | safeHTML}}
             </p>
@@ -64,6 +65,6 @@
   </div>
 </section>
 
-<!-- {{ partial "call-to-action.html" . }} -->
+{{ partial "call-to-action.html" . }}
 
 {{ end }}

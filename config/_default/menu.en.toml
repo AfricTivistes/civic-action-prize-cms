@@ -11,7 +11,7 @@
   name    = "Newsroom"
   url     = "newsroom"
   weight  = 3
-# [[nav]]
-#   name    = "Vote"
-#   url     = "vote"
-#   weight  = 4
+[[nav]]
+  name    = "Vote"
+  url     = "vote"
+  weight  = 4

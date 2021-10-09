@@ -2,10 +2,10 @@ enable  : true
 title   : "VOTES POUR LES CANDIDATS"
 subtitle: "What clients says about our services."
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
-    url: /fr/vote/simonns
+  - thumb : "images/vote/diakhate.jpg"
+    name  : "Mamadou Diakhaté"
+    company_position: "Instituteur, Sénégal"
+    url: /fr/vote/diakhate
     quote : > 
             "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
 

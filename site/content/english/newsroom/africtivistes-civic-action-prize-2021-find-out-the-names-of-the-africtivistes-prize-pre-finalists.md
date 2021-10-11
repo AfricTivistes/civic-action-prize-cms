@@ -23,7 +23,7 @@ The selection process of the 10 pre-finalists of the AfricTivistes Civic Action 
 
 The selection committee of the AfricTivistes Prize considers that these 10 pre-finalists have the best projects with high social impact.
 
-For the next step, these selected candidates will compete through a public vote on the dedicated platform: https://prize.africtivistes.org/[](https://prize.africtivistes.org/fr/)
+For the next step, these selected candidates will compete through a public vote on the dedicated platform: https://prize.africtivistes.org/
 
 There will be 2 vote phases. A first phase of public vote will be opened to allow the 10 candidates and their teams to campaign with the hashtag #AfricTivistesPrize. **Voting will start on Monday, October 11, 2021 at 6pm GMT and will end on Friday, October 22, 2021 at 6pm GMT**. 
 

@@ -1,6 +1,6 @@
 enable  : true
-title   : "VOTES POUR LES CANDIDATS"
-subtitle: "Retrouvez toute l'actualité sur le Prix AfricTivistes pour l'Action Civique"
+title   : "VOTEZ POUR VOTRE CHAMPION CITOYEN"
+subtitle: "Ci-dessous la liste des préfinalistes du Prix AfricTivistes pour l'Action Civique"
 testimonial_item :
   - thumb : "images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"

@@ -1,6 +1,6 @@
 enable  : true
-title   : "VOTES FOR NOMINEES"
-subtitle: "All the latest news about the AfricTivistes Civic Action Prize."
+title   : "VOTE FOR YOUR CITIZEN CHAMPION"
+subtitle: "Below the AfricTivistes Civic Action Prize pre finalists"
 testimonial_item :
   - thumb : "/images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"

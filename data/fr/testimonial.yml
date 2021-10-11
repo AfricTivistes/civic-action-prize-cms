@@ -1,72 +1,72 @@
 enable  : true
 title   : "VOTES POUR LES CANDIDATS"
-subtitle: "What clients says about our services."
+subtitle: "Retrouvez toute l'actualité sur le Prix AfricTivistes pour l'Action Civique"
 testimonial_item :
-  - thumb : "images/vote/diakhate.jpg"
+  - thumb : "images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"
-    company_position: "Instituteur, Sénégal"
+    company_position: "Fondateur de l’association Simple Action Citoyenne Sénégal"
     url: /fr/vote/diakhate
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service...
+  - thumb : "images/testimonial/divine.jpg"
+    name  : "Divine Ingabire"
+    company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
+    url: /fr/vote/divine
+    quote : > 
+            I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
-    url: /fr/vote
+  - thumb : "images/testimonial/fibanda.jpg"
+    name  : "Fibanda Brotry"
+    company_position: "Fondateur de l’initiative Wezesha Young Farmers, Kenya"
+    url: /fr/vote/fibanda
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            L'initiative Wezesha pour les jeunes agriculteurs est un concept intéressant qui relie la conservation de l'environnement, l'action climatique et l'agriculture en utilisant l'approche agroécologique. Cette initiative est dirigée par Fibanda, de la société de conseil APSID...
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
-    url: /fr/vote
+  - thumb : "images/testimonial/fatouma.jpg"
+    name  : "Fatouma Harber"
+    company_position: "Co-fondatrice de SankoréLabs"
+    url: /fr/vote/fatouma
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
+  
+  - thumb : "images/testimonial/laetitia.jpg"
+    name  : "Laetitia Carelle Goli"
+    company_position: "Fondatrice de l’Académie Politique des Femmes, Côte d’Ivoire"
+    url: /fr/vote/laetitia
+    quote : > 
+            L’Académie politique des femmes est une école de formation politique des femmes de la société civile et politique. Pendant 3 mois, elles sont formées à la science politique, à la citoyenneté. Avec l'académie politique des femmes, ...
+  
+  - thumb : "images/testimonial/muazu.jpg"
+    name  : "Muazu Alhaji Modu"
+    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
+    url: /fr/vote/muazu
+    quote : > 
+            L'initiative de suivi par les citoyens est une initiative de responsabilisation sociale fondée sur les données qui utilise les chiffres et exploite la technologie numérique pour donner aux citoyens à la base les moyens d'exiger des comptes ...
 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
-    url: /fr/vote
+  - thumb : "images/testimonial/hamzat.jpg"
+    name  : "Hamzat Bala Lawal"
+    company_position: "Fondateur de Connected Development (CODE), Nigéria"
+    url: /fr/vote/hamzat
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base...
 
-  - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
-    url: /fr/vote
+  - thumb : "images/testimonial/idris.jpg"
+    name  : "Idris Bilyaminu Ndasadu'Lau"
+    company_position: "Fondateur de YAPD4Africa, Nigéria"
+    url: /fr/vote/idris
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            Ce projet visait à réduire la pauvreté périodique en partageant des informations et des compétences adéquates pour soutenir les femmes et les filles marginalisées, quel que soit leur lieu de résidence au Nigeria. En 2020, ...
 
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
-    url: /fr/vote
+  - thumb : "images/testimonial/adams.jpg"
+    name  : "Adams Cassinga"
+    company_position: "Fondateur de Conserv Congo"
+    url: /fr/vote/adams
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
-    url: /fr/vote
-    quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale...
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
-    url: /fr/vote
+  - thumb : "images/testimonial/djamila.jpg"
+    name  : "Djamila Boubacar Sahabi"
+    company_position: "Fondatrice de Actu Magazine & Nissa Pad , Niger"
+    url: /fr/vote/djamila
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
-  - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
-    url: /fr/vote
-    quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
-
-  - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
-    url: /fr/vote
-    quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            Nissa  Pad est une marque de serviette hygiénique lavables en coton biologique certifié, non teint et non blanchi, confortable, amie de votre Budget .3 fois plus absorbante que les serviettes jetables et tampons pour un flux menstruelle moyen à abondant ainsi ...

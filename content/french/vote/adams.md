@@ -1,12 +1,11 @@
 ---
-title: Adams Cassinga, Défenseur de la Biodiversité & Leader civique, Fondateur de Conserv Congo
+title: Adams Cassinga, Fondateur de Conserv Congo
 projet: Conserv Congo
 date: 2021-10-09T12:00:00.074Z
-description: Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin.
-Besides chasing after traffickers and bringing them to justice, we:
-- Encourage communities to get involved in agroforestry as an option to poaching, but also as a tool to create food security. 
-- Educate masses on the importance of applying good environmental ethics in combating climate change.
-As the only active organization in central Africa doing field work against wildlife trafficking, we have investigated over 3000 cases of wildlife trafficking, including Trans frontier and cross border trafficking. We have occasioned, with the authorities over 2000 arrests for more than 1500 traffickers, of whom more than 800 have been prosecuted. In the last nine years, we have rescued many live animals:  209 great apes, more than 500 monkeys, crocodiles, tortoises, African grey parrots, pangolins, snakes and birds. All of them are put into various sanctuaries, across the country.
-
-image: images/vote/adams.jpg
+description: Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale.  Notre mission est de préserver la biodiversité du bassin du Congo.
+En plus de poursuivre les trafiquants et de les traduire en justice, nous :
+- Encourageons les communautés à s'impliquer dans l'agroforesterie comme une option au braconnage, mais aussi comme un outil pour créer la sécurité alimentaire. 
+- Nous sensibilisons les populations à l'importance d'appliquer une bonne éthique environnementale dans la lutte contre le changement climatique.
+En tant que seule organisation active en Afrique centrale à travailler sur le terrain contre le trafic d'animaux sauvages, nous avons enquêté sur plus de 3000 cas de trafic d'animaux sauvages, y compris le trafic transfrontalier et transfrontalier. Nous avons procédé, avec les autorités, à plus de 2000 arrestations de plus de 1500 trafiquants, dont plus de 800 ont été poursuivis. Au cours des neuf dernières années, nous avons sauvé de nombreux animaux vivants : 209 grands singes, plus de 500 singes, crocodiles, tortues, perroquets gris africains, pangolins, serpents et oiseaux. Tous ces animaux sont placés dans divers sanctuaires, à travers le pays.
+image: images/testimonial/adams.jpg
 ---

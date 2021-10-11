@@ -30,7 +30,7 @@ En même temps que ce premier vote, un jury institutionnel composé de partenair
 
 Les 5 champions retenus participeront au **3e Sommet AfricTivistes** prévu du **11 au 13 novembre 2021** à Abidjan où sera décerné le Prix AfricTivistes pour l’Action Civique.
 
-Un deuxième vote, qui mettra en compétition les 5 finalistes, débutera le 1er novembre 2021 et prendra fin la veille du Sommet, le 10 novembre 2021, TU (Temps Universel). Ce vote représente 60% du résultat final. Un jury final, représentant 40% et composé des 2 anciens récipiendaires du Prix Anna Guèye 2018 et de représentants des différentes régions de l’Afrique, choisira le lauréat.
+Un deuxième vote, qui mettra en compétition les 5 finalistes, débutera le **1er novembre 2021** et prendra fin la veille du Sommet, le **10 novembre 2021**, TU (Temps Universel). Ce vote représente 60% du résultat final. Un jury final, représentant 40% et composé des 2 anciens récipiendaires du Prix Anna Guèye 2018 et de représentants des différentes régions de l’Afrique, choisira le lauréat.
 
 Au final, le Prix AfricTivistes pour l’Action Civique sera décerné au meilleur jeune africain détenteur du meilleur projet avec à la clé la somme de US$10 000, du matériel informatique et électronique, une bourse et des subventions pour répliquer son modèle de projet ou initiative dans d'autres pays africains. 
 

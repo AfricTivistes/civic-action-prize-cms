@@ -59,7 +59,7 @@ testimonial_item :
   - thumb : "images/testimonial/adams.jpg"
     name  : "Adams Cassinga"
     company_position: "Founder of Conserv Congo, RDC"
-    url: /vote/idams
+    url: /vote/adams
     quote : > 
             Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
   - thumb : "images/testimonial/djamila.jpg"

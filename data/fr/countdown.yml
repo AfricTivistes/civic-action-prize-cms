@@ -1,7 +1,7 @@
 enable : true
 title : "Il vous reste..."
-subtitle : "Avant le début des votes!"
+subtitle : "Avant la fin du vote!"
 btnText : "Nominer"
 countdownYear : 2021
-countdownMonth : 9
-countdownDay  : 7
+countdownMonth : 10
+countdownDay  : 22

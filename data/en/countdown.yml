@@ -1,7 +1,7 @@
 enable : true
 title : "Remaining days..."
-subtitle : "Before voting begins!"
+subtitle : "Before voting end!"
 btnText : "Nominate"
 countdownYear : 2021
-countdownMonth : 9
-countdownDay  : 7
+countdownMonth : 10
+countdownDay  : 22

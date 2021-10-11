@@ -21,7 +21,7 @@
                   <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
                 </div>
                 <div class="col-12">
-                  <input type="hidden" name="name" id="name" value="{{ .Title }}">
+                  <input type="hidden" name="name" id="name" value="{{ .Params.name }}">
                   <input type="hidden" name="link" id="link" value="{{ .Page.Permalink }}">
                   <input type="hidden" name="langue" id="langue" value="{{ i18n "langue" }}">
                 </div>

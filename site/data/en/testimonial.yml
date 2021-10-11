@@ -2,70 +2,69 @@ enable  : true
 title   : "VOTES FOR NOMINEES"
 subtitle: "All the latest news about the AfricTivistes Civic Action Prize."
 testimonial_item :
-  - thumb : "images/vote/diakhate.jpg"
+  - thumb : "/images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"
-    company_position: "Teacher, Founder of the Simple Action Citoyenne association, Senegal"
+    company_position: Founder of the Simple Action Citoyenne association, Senegal"
     url: /vote/diakhate
     quote : > 
-            "Team Niintche's project is to instill in young people and adults, as well as children, the notion of community engagement through actions that involve them and have a real impact on the daily lives of the population. Thanks to the community service, it provides training in various trades through the renovation of schools and the drilling of wells..... It is also a social incubator for all students, school dropouts and even young social deviants." 
+            Team Niintche's project is to instill in young people and adults, as well as children, the notion of community engagement through actions that involve them and have a real impact on the daily lives of the population...
 
-  - thumb : "images/vote/divine.jpg"
+  - thumb : "images/testimonial/divine.jpg"
     name  : "Divine Ingabire"
-    company_position: "Assistant Auditor, Founder and Executive Director of I Matter Initiative, Rwanda"
+    company_position: "Founder and Executive Director of I Matter Initiative, Rwanda"
     url: /vote/divine
     quote : > 
-            "I Matter Initiative is a youth-led organization (NGO) registered under Rwanda Governance Board (RGB) since 2019, working to end period poverty and stigma attached to menstruation in Rwanda. We strongly believe that women and young girls should not be held back by their periods or lack of information. Our vision is A World where young girls and women are empowered to be active changers of their futures. Our mission is to end period poverty in Rwanda and stigma attached to menstruation and through providing skills in Sexual Reproductive Health and Rights (SRHR) and Menstrual Hygiene Management (MHM). Our main actions are through service, advocacy and raising awareness on both online and off-line campaigns. I remain with a drive to help females who are facing issues related to their sexual reproductive health. Knowing how these issues affect their mental health, physical health.Our main project for this year is to focus on students with disabilities and advancing their Sexual Reproductive. This project tailoring learning materials on Sexual Reproductive Health and Rights (SRHR) and Menstrual Hygiene Management (MHM) for specific disabilities (i.e. translating booklets into braille and having a sign language interpreter handy) and creating awareness on this matter along with period poverty itself."
-  - thumb : "images/vote/fibanda.jpg"
+            I Matter Initiative is a youth-led organization (NGO) registered under Rwanda Governance Board (RGB) since 2019, working to end period poverty and stigma attached to menstruation in Rwanda...
+  - thumb : "images/testimonial/fibanda.jpg"
     name  : "Fibanda Brotry"
-    company_position: "Research Assistant & Social Media Manager, Founder of Wezesha Young Farmers Initiative, Kenya"
+    company_position: "Founder of Wezesha Young Farmers Initiative, Kenya"
     url: /vote/fibanda
     quote : > 
-            "Wezesha young farmers initiative is an interesting concept that links Environmental conservation, Climate Action to Agriculture using agroecology approach. This initiative is being led by Fibanda at the APSID consulting company. This approach brings good connectivity with nature, and a sustainable way to redesign food systems from the farm to the table. As of now undernourishment and severe food insecurity appears to be increasing in almost all regions in africa. Through Agroforestry, Soil and Water Conservation and Biodiversity Conservation practices increases productivity because the greater diversity on the farm results in greater diversity in plates."
-  - thumb : "images/vote/fatouma.jpg"
+            Wezesha young farmers initiative is an interesting concept that links Environmental conservation, Climate Action to Agriculture using agroecology approach. This initiative is being led by Fibanda...
+  - thumb : "images/testimonial/fatouma.jpg"
     name  : "Fatouma Harber"
-    company_position: "Psychologist & Web journalist, Co-founder of SankoréLabs, Mali"
+    company_position: "Co-founder of SankoréLabs, Mali"
     url: /vote/fatouma
     quote : > 
-            "Psychologist and web journalist This project addresses an action with young people to rebuild their spirit of citizenship, which seems to be lacking lately in Mali. It aims to interest young people in citizenship through citizenship clubs that have been created in secondary schools, but also by working for the involvement of young people in local governance through the realization of a youth charter for democracy and citizenship, but also technical meetings that will take into account the voices of young people for a successful local governance. Group discussions on the themes of citizenship, advocacy and lobbying, democracy and local governance allow young people to get in touch with the current situation in the country and especially to play a role in the process of stabilization of Mali." 
+            Psychologist and web journalist This project addresses an action with young people to rebuild their spirit of citizenship, which seems to be lacking lately in Mali. It aims to interest young people in citizenship through citizenship clubs...
 
-  - thumb : "images/vote/laetitia.jpg"
+  - thumb : "images/testimonial/laetitia.jpg"
     name  : "Laetitia Carelle Goli"
-    company_position: "Activist & Blogger, Initiator of the Women’s Political Academy, Côte d’Ivoire"
+    company_position: "Founder of the Women’s Political Academy, Côte d’Ivoire"
     url: /vote/laetitia
     quote : > 
-            "Women's Political Academy is a political training school for women from civil and political society. For 3 months, they are trained in political science and citizenship. With the women's political academy, they become agents of change in their community.The academy involves the next editions of the teenagers with the project of political vacations. In the long run, the goal is to start the political awakening of women earlier." 
+            Women's Political Academy is a political training school for women from civil and political society.For 3 months,they are trained in political science and citizenship. With the women's political academy,they become agents of change in their...
 
-  - thumb : "images/vote/muazu.jpg"
+  - thumb : "images/testimonial/muazu.jpg"
     name  : "Muazu Alhaji Modu"
-    company_position: "Social accountability Advocate and Community Mobilizer, Founder of Spotlight for Transparency and Accountability initiative, Nigeria"
+    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
     url: /vote/muazu
     quote : > 
-            "The Citizen-led tracking initiative is a data-driven social accountability initiative that uses data and leverages digital technology to empower citizens at the grassroots to demand accountability and tracks governments expenditure on social services; health, education, water sanitation, and hygiene (WASH) in grassroots communities to increase and ensure accountability and improve public service delivery at subnational government. Citizen-led tracking Initiative is currently tracking the implementation of the Basic Healthcare Provision Fund in 30 communities in Yobe state, Nigeria and is expected to impact 1200 rural lives and ensure the attainability of universal healthcare coverage. Citizen-led tracking built in a span of 21 months the capacity of over 500 young people and community stakeholders in 60 communities in Nigeria to independently hold the government to account." 
+            The Citizen-led tracking initiative is a data-driven social accountability initiative that uses data and leverages digital technology to empower citizens at the grassroots to demand accountability...
   
-  - thumb : "images/vote/hamzat.jpg"
+  - thumb : "images/testimonial/hamzat.jpg"
     name  : "Hamzat Bala Lawal"
-    company_position: "Activist & Founder of Connected Development (CODE), Nigeria"
+    company_position: "Founder of Connected Development (CODE), Nigeria"
     url: /vote/hamzat
     quote : > 
-            "Follow The Money is a Pan-African grassroots movement that tries to answer where funds are coming from, where they're going to but how judiciously these funds are being used to impact grassroots communities. Founded in 2020 by Hamzat Lawal and started in Nigeria as a home-grown initiative, it now evolves in Kenya, The Gambia, Malawi, Cameroon, Zimbabwe, and Liberia. Follow The Money would activate over 8000 active users in the 774 local governments across Nigeria who are members of the Movement to document and track COVID19 interventions by both governments, private sector, and international donors using technology tools. Follow The Money emerged winner of the United Nations Sustainable Development Goals Mobilizer 2019 Award. This announcement was made at the SDG Global Festival of Action which was held in Bonn, Germany."
+            Follow The Money is a Pan-African grassroots movement that tries to answer where funds are coming from, where they're going to but how judiciously these funds are being used to impact grassroots communities. Founded in 2020 by Hamzat Lawal and started in Nigeria...
   
-  - thumb : "images/vote/idris.jpg"
+  - thumb : "images/testimonial/idris.jpg"
     name  : "Idris Bilyaminu Ndasadu'Lau,"
-    company_position: "Social Development Activist, Founder of YAPD4Africa, Nigeria"
+    company_position: "Founder of YAPD4Africa, Nigeria"
     url: /vote/idris
     quote : > 
-            "This project aimed to reduce period poverty through sharing adequate information and skills to support marginalised women and girls regardless of where they lived around Nigeria. In 2020 during the International Girl Day, this project impacted over 300 women and girls with free sanitary pads around northern Nigeria. But after our 2020 project report we understand that sanitary pads are not the best solution to end period poverty and financial inequality for women and girls around the world. In 2021, we design a sustainable solution strategy to support these women and girls through reusable pads products. "
+            This project aimed to reduce period poverty through sharing adequate information and skills to support marginalised women and girls regardless of where they lived around Nigeria. In 2020 during the International Girl Day,...
  
-  - thumb : "images/vote/adams.jpg"
+  - thumb : "images/testimonial/adams.jpg"
     name  : "Adams Cassinga"
-    company_position: "Wildlife activist & Civic leader, Founder of Conserv Congo, RDC"
+    company_position: "Founder of Conserv Congo, RDC"
     url: /vote/idams
     quote : > 
-            "Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale.  Notre mission est de préserver la biodiversité du bassin du Congo.En plus de poursuivre les trafiquants et de les traduire en justice, nous : Encourageons les communautés à s'impliquer dans l'agroforesterie comme une option au braconnage, mais aussi comme un outil pour créer la sécurité alimentaire. Nous sensibilisons les populations à l'importance d'appliquer une bonne éthique environnementale dans la lutte contre le changement climatique.En tant que seule organisation active en Afrique centrale à travailler sur le terrain contre le trafic d'animaux sauvages, nous avons enquêté sur plus de 3000 cas de trafic d'animaux sauvages, y compris le trafic transfrontalier et transfrontalier. Nous avons procédé, avec les autorités, à plus de 2000 arrestations de plus de 1500 trafiquants, dont plus de 800 ont été poursuivis. Au cours des neuf dernières années, nous avons sauvé de nombreux animaux vivants : 209 grands singes, plus de 500 singes, crocodiles, tortues, perroquets gris africains, pangolins, serpents et oiseaux. Tous ces animaux sont placés dans divers sanctuaires, à travers le pays."
-  
-  - thumb : "images/vote/djamila.jpg"
+            Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
+  - thumb : "images/testimonial/djamila.jpg"
     name  : "Djamila Boubacar Sahabi"
-    company_position: "Social Activist, Founder of Actu Magazine & Nissa Pad, Niger"
+    company_position: "Founder of Actu Magazine & Nissa Pad, Niger"
     url: /vote/djamila
     quote : > 
-            "Nissa Pad is a brand of washable sanitary pads made of certified organic cotton, non-dyed and non-bleached, comfortable, friendly to your Budget. 3 times more absorbent than disposable pads and tampons for medium to heavy menstrual flow and bladder leakage. Djamila's vision is to promote sustainable solutions that contribute to the emancipation of women, accompany young adolescent girls in school to stay in school during their periods. The reduction of waste, the fight against exclusion and the creation of jobs. It wishes to disseminate healthy and ecological practices through sustainable activities that create jobs.It responds to the crying need for sanitary protection for women."
+            Nissa Pad is a brand of washable sanitary pads made of certified organic cotton, non-dyed and non-bleached, comfortable, friendly to your Budget. 3 times more absorbent than disposable pads and tampons for medium to heavy menstrual flow and bladder leakage...

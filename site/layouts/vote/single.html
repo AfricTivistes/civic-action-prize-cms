@@ -45,6 +45,13 @@
           <div class="site-about-description">
             <h1>{{.Title}}</h1>
             <h3>{{.Params.Projet}}</h3>
+            <ul class="site-team-member-social">
+              <li><a href="{{ .Params.facebook | absURL }}"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="{{ .Params.twitter | absURL }}"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="{{ .Params.instagram | absURL }}"><i class="fa fa-instagram"></i></a></li>
+              <li><a href="{{ .Params.linkedin | absURL }}"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="{{ .Params.site | absURL }}"><i class="fa fa-globe"></i></a></li>
+            </ul>
             <p>
               {{ .Description | safeHTML}}
             </p>

@@ -1,9 +1,9 @@
 # Banner Section
 [banner]
 enable                = true
-background_image      = "images/backgrounds/hero-background.jpg"
-heading               = "Qui inspirent et changent les communautés"
-tagline               = "Élevez les personnes"
+background_image      = "/images/backgrounds/logoo.png"
+heading               = ""
+tagline               = ""
 primary_button        = "À propos"
 primary_button_url    = "/fr/about"
 secondary_button      = "Vote"

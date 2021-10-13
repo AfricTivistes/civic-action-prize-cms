@@ -2,18 +2,6 @@ enable  : true
 title   : "VOTE FOR YOUR CITIZEN CHAMPION"
 subtitle: "Below the AfricTivistes Civic Action Prize pre finalists"
 testimonial_item :
-  - thumb : "images/testimonial/muazu.jpg"
-    name  : "Muazu Alhaji Modu"
-    id    : c6
-    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
-    url: /vote/muazu
-    quote : > 
-            The Citizen-led tracking initiative is a data-driven social accountability initiative that uses data and leverages digital technology to empower citizens at the grassroots to demand accountability...
-    facebook : https://www.facebook.com/muazul1
-    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
-    instagram : https://www.instagram.com/Muazu_little4
-    twitter   : https://www.instagram.com/Muazulittle4
-
   - thumb : "/images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"
     id    : c1
@@ -25,6 +13,18 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
     instagram : https://instagram.com/niintche?utm_medium=copy_link
     twitter : https://twitter.com/Niintche?s=08
+
+  - thumb : "images/testimonial/muazu.jpg"
+    name  : "Muazu Alhaji Modu"
+    id    : c6
+    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
+    url: /vote/muazu
+    quote : > 
+            The Citizen-led tracking initiative is a data-driven social accountability initiative that uses data and leverages digital technology to empower citizens at the grassroots to demand accountability...
+    facebook : https://www.facebook.com/muazul1
+    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
+    instagram : https://www.instagram.com/Muazu_little4
+    twitter   : https://www.instagram.com/Muazulittle4
 
   - thumb : "images/testimonial/djamila.jpg"
     name  : "Djamila Boubacar Sahabi"
@@ -62,17 +62,6 @@ testimonial_item :
     twitter : https://mobile.twitter.com/@Fatittystar
     site : SankoréLabs.com
 
-  - thumb : "images/testimonial/divine.jpg"
-    name  : "Divine Ingabire"
-    id    : c2
-    company_position: "Founder and Executive Director of I Matter Initiative, Rwanda"
-    url: /vote/divine
-    quote : > 
-            I Matter Initiative is a youth-led organization (NGO) registered under Rwanda Governance Board (RGB) since 2019, working to end period poverty and stigma attached to menstruation in Rwanda...
-    facebook : https://web.facebook.com/Imatterinitiative
-    twitter : https://twitter.com/Imatter_Period
-    site : https://imatterinitiative.org/
-
   - thumb : "images/testimonial/adams.jpg"
     name  : "Adams Cassinga"
     id    : c9
@@ -83,6 +72,17 @@ testimonial_item :
     facebook : https://www.facebook.com/AdamsCassinga
     linkedIn : https://www.linkedin.com/AdamsCassinga
     twitter : https://www.twitter.com/@Amini16
+
+  - thumb : "images/testimonial/divine.jpg"
+    name  : "Divine Ingabire"
+    id    : c2
+    company_position: "Founder and Executive Director of I Matter Initiative, Rwanda"
+    url: /vote/divine
+    quote : > 
+            I Matter Initiative is a youth-led organization (NGO) registered under Rwanda Governance Board (RGB) since 2019, working to end period poverty and stigma attached to menstruation in Rwanda...
+    facebook : https://web.facebook.com/Imatterinitiative
+    twitter : https://twitter.com/Imatter_Period
+    site : https://imatterinitiative.org/
 
   - thumb : "images/testimonial/idris.jpg"
     name  : "Idris Bilyaminu Ndasadu'Lau,"

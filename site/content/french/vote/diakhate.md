@@ -5,4 +5,8 @@ date: 2021-10-09T12:58:40.074Z
 description: La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service la formation dans des métiers à travers les différents chantiers de rénovations d'écoles, de forage de puits….. Elle est aussi un incubateur social pour tous les étudiants, en rupture de scolarité et même de jeunes déviants sociaux.
 image: images/testimonial/diakhate.jpg
 name: Mamadou Diakhaté
+facebook: https://www.facebook.com/junior.kara.92
+linkedIn: https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
+instagram: https://instagram.com/niintche?utm_medium=copy_link
+twitter: https://twitter.com/Niintche?s=08
 ---

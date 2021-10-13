@@ -2,8 +2,21 @@ enable  : true
 title   : "VOTE FOR YOUR CITIZEN CHAMPION"
 subtitle: "Below the AfricTivistes Civic Action Prize pre finalists"
 testimonial_item :
+  - thumb : "images/testimonial/muazu.jpg"
+    name  : "Muazu Alhaji Modu"
+    id    : c6
+    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
+    url: /vote/muazu
+    quote : > 
+            The Citizen-led tracking initiative is a data-driven social accountability initiative that uses data and leverages digital technology to empower citizens at the grassroots to demand accountability...
+    facebook : https://www.facebook.com/muazul1
+    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
+    instagram : https://www.instagram.com/Muazu_little4
+    twitter   : https://www.instagram.com/Muazulittle4
+
   - thumb : "/images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"
+    id    : c1
     company_position: Founder of the Simple Action Citoyenne association, Senegal"
     url: /vote/diakhate
     quote : > 
@@ -13,40 +26,21 @@ testimonial_item :
     instagram : https://instagram.com/niintche?utm_medium=copy_link
     twitter : https://twitter.com/Niintche?s=08
 
-  - thumb : "images/testimonial/divine.jpg"
-    name  : "Divine Ingabire"
-    company_position: "Founder and Executive Director of I Matter Initiative, Rwanda"
-    url: /vote/divine
+  - thumb : "images/testimonial/djamila.jpg"
+    name  : "Djamila Boubacar Sahabi"
+    id    : c10
+    company_position: "Founder of Actu Magazine & Nissa Pad, Niger"
+    url: /vote/djamila
     quote : > 
-            I Matter Initiative is a youth-led organization (NGO) registered under Rwanda Governance Board (RGB) since 2019, working to end period poverty and stigma attached to menstruation in Rwanda...
-    facebook : https://web.facebook.com/Imatterinitiative
-    twitter : https://twitter.com/Imatter_Period
-    site : https://imatterinitiative.org/
-
-  - thumb : "images/testimonial/fibanda.jpg"
-    name  : "Fibanda Brotry"
-    company_position: "Founder of Wezesha Young Farmers Initiative, Kenya"
-    url: /vote/fibanda
-    quote : > 
-            Wezesha young farmers initiative is an interesting concept that links Environmental conservation, Climate Action to Agriculture using agroecology approach. This initiative is being led by Fibanda...
-    facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
-    linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
-    instagram : https://www.instagram.com/fibanda1/ 
-    twitter : https://mobile.twitter.com/Fibanda1
- 
-  - thumb : "images/testimonial/fatouma.jpg"
-    name  : "Fatouma Harber"
-    company_position: "Co-founder of SankoréLabs, Mali"
-    url: /vote/fatouma
-    quote : > 
-            Psychologist and web journalist This project addresses an action with young people to rebuild their spirit of citizenship, which seems to be lacking lately in Mali. It aims to interest young people in citizenship through citizenship clubs...
-    facebook : www.facebook.com/fatoumaharbert
-    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
-    twitter : https://mobile.twitter.com/@Fatittystar
-    site : SankoréLabs.com 
+            Nissa Pad is a brand of washable sanitary pads made of certified organic cotton, non-dyed and non-bleached, comfortable, friendly to your Budget. 3 times more absorbent than disposable pads and tampons for medium to heavy menstrual flow and bladder leakage...
+    facebook : https://www.facebook.com/Nissa-Pad-111523937194558/ 
+    instagram : https://www.instagram.com/NissaPad
+    twitter : https://www.twitter.com/@Actumagazine
+    site :  www.actumag.net
 
   - thumb : "images/testimonial/laetitia.jpg"
     name  : "Laetitia Carelle Goli"
+    id    : c5
     company_position: "Founder of the Women’s Political Academy, Côte d’Ivoire"
     url: /vote/laetitia
     quote : > 
@@ -55,30 +49,44 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
     instagram : https://www.instagram.com/carellelaetitia
     twitter : https://www.twitter.com/Laetitiacarell1
-  
-  - thumb : "images/testimonial/muazu.jpg"
-    name  : "Muazu Alhaji Modu"
-    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
-    url: /vote/muazu
+
+  - thumb : "images/testimonial/fatouma.jpg"
+    name  : "Fatouma Harber"
+    id    : c4
+    company_position: "Co-founder of SankoréLabs, Mali"
+    url: /vote/fatouma
     quote : > 
-            The Citizen-led tracking initiative is a data-driven social accountability initiative that uses data and leverages digital technology to empower citizens at the grassroots to demand accountability...
-    facebook : https://www.facebook.com/muazul1
-    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
-    instagram : https://www.instagram.com/Muazu_little4
-    twitter   : https://www.instagram.com/Muazulittle4 
-  
-  - thumb : "images/testimonial/hamzat.jpg"
-    name  : "Hamzat Bala Lawal"
-    company_position: "Founder of Connected Development (CODE), Nigeria"
-    url: /vote/hamzat
+            Psychologist and web journalist This project addresses an action with young people to rebuild their spirit of citizenship, which seems to be lacking lately in Mali. It aims to interest young people in citizenship through citizenship clubs...
+    facebook : www.facebook.com/fatoumaharbert
+    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
+    twitter : https://mobile.twitter.com/@Fatittystar
+    site : SankoréLabs.com
+
+  - thumb : "images/testimonial/divine.jpg"
+    name  : "Divine Ingabire"
+    id    : c2
+    company_position: "Founder and Executive Director of I Matter Initiative, Rwanda"
+    url: /vote/divine
     quote : > 
-            Follow The Money is a Pan-African grassroots movement that tries to answer where funds are coming from, where they're going to but how judiciously these funds are being used to impact grassroots communities. Founded in 2020 by Hamzat Lawal and started in Nigeria...
-    facebook : https://www.facebook.com/hamzatblawal
-    linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
-    twitter : https://twitter.com/HamzyCODE
-  
+            I Matter Initiative is a youth-led organization (NGO) registered under Rwanda Governance Board (RGB) since 2019, working to end period poverty and stigma attached to menstruation in Rwanda...
+    facebook : https://web.facebook.com/Imatterinitiative
+    twitter : https://twitter.com/Imatter_Period
+    site : https://imatterinitiative.org/
+
+  - thumb : "images/testimonial/adams.jpg"
+    name  : "Adams Cassinga"
+    id    : c9
+    company_position: "Founder of Conserv Congo, RDC"
+    url: /vote/adams
+    quote : > 
+            Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
+    facebook : https://www.facebook.com/AdamsCassinga
+    linkedIn : https://www.linkedin.com/AdamsCassinga
+    twitter : https://www.twitter.com/@Amini16
+
   - thumb : "images/testimonial/idris.jpg"
     name  : "Idris Bilyaminu Ndasadu'Lau,"
+    id    : c8
     company_position: "Founder of YAPD4Africa, Nigeria"
     url: /vote/idris
     quote : > 
@@ -88,23 +96,25 @@ testimonial_item :
     instagram : https://www.instagram.com/@activistndasadu
     twitter : https://www.twitter.com/@activistndasadu
 
-  - thumb : "images/testimonial/adams.jpg"
-    name  : "Adams Cassinga"
-    company_position: "Founder of Conserv Congo, RDC"
-    url: /vote/adams
+  - thumb : "images/testimonial/fibanda.jpg"
+    name  : "Fibanda Brotry"
+    id    : c3
+    company_position: "Founder of Wezesha Young Farmers Initiative, Kenya"
+    url: /vote/fibanda
     quote : > 
-            Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
-    facebook : https://www.facebook.com/AdamsCassinga
-    linkedIn : https://www.linkedin.com/AdamsCassinga
-    twitter : https://www.twitter.com/@Amini16
-  
-  - thumb : "images/testimonial/djamila.jpg"
-    name  : "Djamila Boubacar Sahabi"
-    company_position: "Founder of Actu Magazine & Nissa Pad, Niger"
-    url: /vote/djamila
+            Wezesha young farmers initiative is an interesting concept that links Environmental conservation, Climate Action to Agriculture using agroecology approach. This initiative is being led by Fibanda...
+    facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
+    linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
+    instagram : https://www.instagram.com/fibanda1/ 
+    twitter : https://mobile.twitter.com/Fibanda1
+     
+  - thumb : "images/testimonial/hamzat.jpg"
+    name  : "Hamzat Bala Lawal"
+    id    : c7
+    company_position: "Founder of Connected Development (CODE), Nigeria"
+    url: /vote/hamzat
     quote : > 
-            Nissa Pad is a brand of washable sanitary pads made of certified organic cotton, non-dyed and non-bleached, comfortable, friendly to your Budget. 3 times more absorbent than disposable pads and tampons for medium to heavy menstrual flow and bladder leakage...
-    facebook : https://www.facebook.com/Nissa-Pad-111523937194558/ 
-    instagram : https://www.instagram.com/NissaPad
-    twitter : https://www.twitter.com/@Actumagazine
-    site :  www.actumag.net
+            Follow The Money is a Pan-African grassroots movement that tries to answer where funds are coming from, where they're going to but how judiciously these funds are being used to impact grassroots communities. Founded in 2020 by Hamzat Lawal and started in Nigeria...
+    facebook : https://www.facebook.com/hamzatblawal
+    linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
+    twitter : https://twitter.com/HamzyCODE

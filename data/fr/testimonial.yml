@@ -2,8 +2,21 @@ enable  : true
 title   : "VOTEZ POUR VOTRE CHAMPION CITOYEN"
 subtitle: "Ci-dessous la liste des préfinalistes du Prix AfricTivistes pour l'Action Civique"
 testimonial_item :
+  - thumb : "images/testimonial/muazu.jpg"
+    name  : "Muazu Alhaji Modu"
+    id    : c6
+    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
+    url: /fr/vote/muazu
+    quote : > 
+            L'initiative de suivi par les citoyens est une initiative de responsabilisation sociale fondée sur les données qui utilise les chiffres et exploite la technologie numérique pour donner aux citoyens à la base les moyens d'exiger des comptes ...
+    facebook : https://www.facebook.com/muazul1
+    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
+    instagram : https://www.instagram.com/Muazu_little4
+    twitter   : https://www.instagram.com/Muazulittle4
+
   - thumb : "images/testimonial/diakhate.jpg"
     name  : "Mamadou Diakhaté"
+    id    : c1
     company_position: "Fondateur de l’association Simple Action Citoyenne Sénégal"
     url: /fr/vote/diakhate
     quote : > 
@@ -12,41 +25,22 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
     instagram : https://instagram.com/niintche?utm_medium=copy_link
     twitter : https://twitter.com/Niintche?s=08
-  
-  - thumb : "images/testimonial/divine.jpg"
-    name  : "Divine Ingabire"
-    company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
-    url: /fr/vote/divine
-    quote : > 
-            I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
-    facebook : https://web.facebook.com/Imatterinitiative
-    twitter : https://twitter.com/Imatter_Period
-    site : https://imatterinitiative.org/
 
-  - thumb : "images/testimonial/fibanda.jpg"
-    name  : "Fibanda Brotry"
-    company_position: "Fondateur de l’initiative Wezesha Young Farmers, Kenya"
-    url: /fr/vote/fibanda
+  - thumb : "images/testimonial/djamila.jpg"
+    name  : "Djamila Boubacar Sahabi"
+    id    : c10
+    company_position: "Fondatrice de Actu Magazine & Nissa Pad , Niger"
+    url: /fr/vote/djamila
     quote : > 
-            L'initiative Wezesha pour les jeunes agriculteurs est un concept intéressant qui relie la conservation de l'environnement, l'action climatique et l'agriculture en utilisant l'approche agroécologique. Cette initiative est dirigée par Fibanda, de la société de conseil APSID...
-    facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
-    linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
-    instagram : https://www.instagram.com/fibanda1/ 
-    twitter : https://mobile.twitter.com/Fibanda1
-
-  - thumb : "images/testimonial/fatouma.jpg"
-    name  : "Fatouma Harber"
-    company_position: "Co-fondatrice de SankoréLabs"
-    url: /fr/vote/fatouma
-    quote : > 
-            Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
-    facebook : www.facebook.com/fatoumaharbert
-    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
-    twitter : https://mobile.twitter.com/@Fatittystar
-    site : SankoréLabs.com 
+            Nissa  Pad est une marque de serviette hygiénique lavables en coton biologique certifié, non teint et non blanchi, confortable, amie de votre Budget .3 fois plus absorbante que les serviettes jetables et tampons pour un flux menstruelle moyen à abondant ainsi ...
+    facebook : https://www.facebook.com/Nissa-Pad-111523937194558/ 
+    instagram : https://www.instagram.com/NissaPad
+    twitter : https://www.twitter.com/@Actumagazine
+    site :  www.actumag.net
 
   - thumb : "images/testimonial/laetitia.jpg"
     name  : "Laetitia Carelle Goli"
+    id    : c5
     company_position: "Fondatrice de l’Académie Politique des Femmes, Côte d’Ivoire"
     url: /fr/vote/laetitia
     quote : > 
@@ -55,30 +49,44 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
     instagram : https://www.instagram.com/carellelaetitia
     twitter : https://www.twitter.com/Laetitiacarell1
-  
-  - thumb : "images/testimonial/muazu.jpg"
-    name  : "Muazu Alhaji Modu"
-    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
-    url: /fr/vote/muazu
-    quote : > 
-            L'initiative de suivi par les citoyens est une initiative de responsabilisation sociale fondée sur les données qui utilise les chiffres et exploite la technologie numérique pour donner aux citoyens à la base les moyens d'exiger des comptes ...
-    facebook : https://www.facebook.com/muazul1
-    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
-    instagram : https://www.instagram.com/Muazu_little4
-    twitter   : https://www.instagram.com/Muazulittle4 
 
-  - thumb : "images/testimonial/hamzat.jpg"
-    name  : "Hamzat Bala Lawal"
-    company_position: "Fondateur de Connected Development (CODE), Nigéria"
-    url: /fr/vote/hamzat
+  - thumb : "images/testimonial/fatouma.jpg"
+    name  : "Fatouma Harber"
+    id    : c4
+    company_position: "Co-fondatrice de SankoréLabs"
+    url: /fr/vote/fatouma
     quote : > 
-            Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base...
-    facebook : https://www.facebook.com/hamzatblawal
-    linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
-    twitter : https://twitter.com/HamzyCODE
+            Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
+    facebook : www.facebook.com/fatoumaharbert
+    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
+    twitter : https://mobile.twitter.com/@Fatittystar
+    site : SankoréLabs.com
+
+  - thumb : "images/testimonial/divine.jpg"
+    name  : "Divine Ingabire"
+    id    : c2
+    company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
+    url: /fr/vote/divine
+    quote : > 
+            I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
+    facebook : https://web.facebook.com/Imatterinitiative
+    twitter : https://twitter.com/Imatter_Period
+    site : https://imatterinitiative.org/
+
+  - thumb : "images/testimonial/adams.jpg"
+    name  : "Adams Cassinga"
+    id    : c9
+    company_position: "Fondateur de Conserv Congo"
+    url: /fr/vote/adams
+    quote : > 
+            Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale...
+    facebook : https://www.facebook.com/AdamsCassinga
+    linkedIn : https://www.linkedin.com/AdamsCassinga
+    twitter : https://www.twitter.com/@Amini16
 
   - thumb : "images/testimonial/idris.jpg"
     name  : "Idris Bilyaminu Ndasadu'Lau"
+    id    : c8
     company_position: "Fondateur de YAPD4Africa, Nigéria"
     url: /fr/vote/idris
     quote : > 
@@ -88,23 +96,25 @@ testimonial_item :
     instagram : https://www.instagram.com/@activistndasadu
     twitter : https://www.twitter.com/@activistndasadu
 
-  - thumb : "images/testimonial/adams.jpg"
-    name  : "Adams Cassinga"
-    company_position: "Fondateur de Conserv Congo"
-    url: /fr/vote/adams
+  - thumb : "images/testimonial/fibanda.jpg"
+    name  : "Fibanda Brotry"
+    id    : c3
+    company_position: "Fondateur de l’initiative Wezesha Young Farmers, Kenya"
+    url: /fr/vote/fibanda
     quote : > 
-            Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale...
-    facebook : https://www.facebook.com/AdamsCassinga
-    linkedIn : https://www.linkedin.com/AdamsCassinga
-    twitter : https://www.twitter.com/@Amini16
+            L'initiative Wezesha pour les jeunes agriculteurs est un concept intéressant qui relie la conservation de l'environnement, l'action climatique et l'agriculture en utilisant l'approche agroécologique. Cette initiative est dirigée par Fibanda, de la société de conseil APSID...
+    facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
+    linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
+    instagram : https://www.instagram.com/fibanda1/ 
+    twitter : https://mobile.twitter.com/Fibanda1
 
-  - thumb : "images/testimonial/djamila.jpg"
-    name  : "Djamila Boubacar Sahabi"
-    company_position: "Fondatrice de Actu Magazine & Nissa Pad , Niger"
-    url: /fr/vote/djamila
+  - thumb : "images/testimonial/hamzat.jpg"
+    name  : "Hamzat Bala Lawal"
+    id    : c7
+    company_position: "Fondateur de Connected Development (CODE), Nigéria"
+    url: /fr/vote/hamzat
     quote : > 
-            Nissa  Pad est une marque de serviette hygiénique lavables en coton biologique certifié, non teint et non blanchi, confortable, amie de votre Budget .3 fois plus absorbante que les serviettes jetables et tampons pour un flux menstruelle moyen à abondant ainsi ...
-    facebook : https://www.facebook.com/Nissa-Pad-111523937194558/ 
-    instagram : https://www.instagram.com/NissaPad
-    twitter : https://www.twitter.com/@Actumagazine
-    site :  www.actumag.net
+            Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base...
+    facebook : https://www.facebook.com/hamzatblawal
+    linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
+    twitter : https://twitter.com/HamzyCODE

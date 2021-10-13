@@ -74,3 +74,5 @@
 <script src="{{ $script.Permalink }}"></script>
 {{ $script := resources.Get "js/vote.js" | minify }}
 <script src="{{ $script.Permalink }}"></script>
+{{ $script := resources.Get "js/results.js" | minify }}
+<script src="{{ $script.Permalink }}"></script>

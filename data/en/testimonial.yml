@@ -38,18 +38,6 @@ testimonial_item :
     twitter : https://www.twitter.com/@Actumagazine
     site :  www.actumag.net
 
-  - thumb : "images/testimonial/laetitia.jpg"
-    name  : "Laetitia Carelle Goli"
-    id    : c5
-    company_position: "Founder of the Women’s Political Academy, Côte d’Ivoire"
-    url: /vote/laetitia
-    quote : > 
-            Women's Political Academy is a political training school for women from civil and political society.For 3 months,they are trained in political science and citizenship. With the women's political academy,they become agents of change in their...
-    facebook : https://www.facebook.com/apofem
-    linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
-    instagram : https://www.instagram.com/carellelaetitia
-    twitter : https://www.twitter.com/Laetitiacarell1
-
   - thumb : "images/testimonial/fatouma.jpg"
     name  : "Fatouma Harber"
     id    : c4
@@ -62,16 +50,17 @@ testimonial_item :
     twitter : https://mobile.twitter.com/@Fatittystar
     site : SankoréLabs.com
 
-  - thumb : "images/testimonial/adams.jpg"
-    name  : "Adams Cassinga"
-    id    : c9
-    company_position: "Founder of Conserv Congo, RDC"
-    url: /vote/adams
+  - thumb : "images/testimonial/laetitia.jpg"
+    name  : "Laetitia Carelle Goli"
+    id    : c5
+    company_position: "Founder of the Women’s Political Academy, Côte d’Ivoire"
+    url: /vote/laetitia
     quote : > 
-            Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
-    facebook : https://www.facebook.com/AdamsCassinga
-    linkedIn : https://www.linkedin.com/AdamsCassinga
-    twitter : https://www.twitter.com/@Amini16
+            Women's Political Academy is a political training school for women from civil and political society.For 3 months,they are trained in political science and citizenship. With the women's political academy,they become agents of change in their...
+    facebook : https://www.facebook.com/apofem
+    linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
+    instagram : https://www.instagram.com/carellelaetitia
+    twitter : https://www.twitter.com/Laetitiacarell1
 
   - thumb : "images/testimonial/divine.jpg"
     name  : "Divine Ingabire"
@@ -95,6 +84,17 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/IdrisBilyaminuNdasaduLau
     instagram : https://www.instagram.com/@activistndasadu
     twitter : https://www.twitter.com/@activistndasadu
+
+  - thumb : "images/testimonial/adams.jpg"
+    name  : "Adams Cassinga"
+    id    : c9
+    company_position: "Founder of Conserv Congo, RDC"
+    url: /vote/adams
+    quote : > 
+            Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
+    facebook : https://www.facebook.com/AdamsCassinga
+    linkedIn : https://www.linkedin.com/AdamsCassinga
+    twitter : https://www.twitter.com/@Amini16
 
   - thumb : "images/testimonial/fibanda.jpg"
     name  : "Fibanda Brotry"

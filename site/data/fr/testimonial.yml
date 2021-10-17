@@ -38,6 +38,17 @@ testimonial_item :
     twitter : https://www.twitter.com/@Actumagazine
     site :  www.actumag.net
 
+  - thumb : "images/testimonial/divine.jpg"
+    name  : "Divine Ingabire"
+    id    : c2
+    company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
+    url: /fr/vote/divine
+    quote : > 
+            I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
+    facebook : https://web.facebook.com/Imatterinitiative
+    twitter : https://twitter.com/Imatter_Period
+    site : https://imatterinitiative.org/
+    
   - thumb : "images/testimonial/fatouma.jpg"
     name  : "Fatouma Harber"
     id    : c4
@@ -61,17 +72,6 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
     instagram : https://www.instagram.com/carellelaetitia
     twitter : https://www.twitter.com/Laetitiacarell1
-
-  - thumb : "images/testimonial/divine.jpg"
-    name  : "Divine Ingabire"
-    id    : c2
-    company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
-    url: /fr/vote/divine
-    quote : > 
-            I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
-    facebook : https://web.facebook.com/Imatterinitiative
-    twitter : https://twitter.com/Imatter_Period
-    site : https://imatterinitiative.org/
 
   - thumb : "images/testimonial/idris.jpg"
     name  : "Idris Bilyaminu Ndasadu'Lau"

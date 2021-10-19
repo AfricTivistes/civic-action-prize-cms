@@ -2,18 +2,6 @@ enable  : true
 title   : "VOTEZ POUR VOTRE CHAMPION CITOYEN"
 subtitle: "Ci-dessous la liste des préfinalistes du Prix AfricTivistes pour l'Action Civique"
 testimonial_item :
-  - thumb : "images/testimonial/diakhate.jpg"
-    name  : "Mamadou Diakhaté"
-    id    : c1
-    company_position: "Fondateur de l’association Simple Action Citoyenne Sénégal"
-    url: /fr/vote/diakhate
-    quote : > 
-            La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service...
-    facebook : https://www.facebook.com/junior.kara.92
-    linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
-    instagram : https://instagram.com/niintche?utm_medium=copy_link
-    twitter : https://twitter.com/Niintche?s=08
-
   - thumb : "images/testimonial/muazu.jpg"
     name  : "Muazu Alhaji Modu"
     id    : c6
@@ -25,6 +13,18 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
     instagram : https://www.instagram.com/Muazu_little4
     twitter   : https://www.instagram.com/Muazulittle4
+
+  - thumb : "images/testimonial/diakhate.jpg"
+    name  : "Mamadou Diakhaté"
+    id    : c1
+    company_position: "Fondateur de l’association Simple Action Citoyenne Sénégal"
+    url: /fr/vote/diakhate
+    quote : > 
+            La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service...
+    facebook : https://www.facebook.com/junior.kara.92
+    linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
+    instagram : https://instagram.com/niintche?utm_medium=copy_link
+    twitter : https://twitter.com/Niintche?s=08
 
   - thumb : "images/testimonial/djamila.jpg"
     name  : "Djamila Boubacar Sahabi"
@@ -48,18 +48,6 @@ testimonial_item :
     facebook : https://web.facebook.com/Imatterinitiative
     twitter : https://twitter.com/Imatter_Period
     site : https://imatterinitiative.org/
-    
-  - thumb : "images/testimonial/fatouma.jpg"
-    name  : "Fatouma Harber"
-    id    : c4
-    company_position: "Co-fondatrice de SankoréLabs"
-    url: /fr/vote/fatouma
-    quote : > 
-            Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
-    facebook : www.facebook.com/fatoumaharbert
-    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
-    twitter : https://mobile.twitter.com/@Fatittystar
-    site : SankoréLabs.com
 
   - thumb : "images/testimonial/laetitia.jpg"
     name  : "Laetitia Carelle Goli"
@@ -72,6 +60,18 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
     instagram : https://www.instagram.com/carellelaetitia
     twitter : https://www.twitter.com/Laetitiacarell1
+
+  - thumb : "images/testimonial/fatouma.jpg"
+    name  : "Fatouma Harber"
+    id    : c4
+    company_position: "Co-fondatrice de SankoréLabs"
+    url: /fr/vote/fatouma
+    quote : > 
+            Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
+    facebook : www.facebook.com/fatoumaharbert
+    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
+    twitter : https://mobile.twitter.com/@Fatittystar
+    site : SankoréLabs.com
 
   - thumb : "images/testimonial/idris.jpg"
     name  : "Idris Bilyaminu Ndasadu'Lau"

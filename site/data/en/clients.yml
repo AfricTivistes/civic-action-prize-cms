@@ -1,13 +1,12 @@
 enable        : true
 title         : "Partners"
 client_logos  : 
- ["images/clients/cfi.png",  
+ ["images/clients/AFDB.png",
+ "images/clients/wacsi.png",
+ "images/clients/cfi.png",  
  "images/clients/wathi.png",
  "images/clients/raddho.jpg",
- "images/clients/pplaaf.png",
- "images/clients/osiwa.png",
  "images/clients/nalla1.png",
  "images/clients/africajom.jpg",
  "images/clients/clemson.png", 
- "images/clients/article19.jpg",
- "images/clients/africansrissing.png"] 
+ "images/clients/article19.jpg"] 

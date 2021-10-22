@@ -12,6 +12,6 @@
   url     = "newsroom"
   weight  = 3
 [[nav]]
-  name    = "Vote"
+  name    = "Champions"
   url     = "vote"
   weight  = 4

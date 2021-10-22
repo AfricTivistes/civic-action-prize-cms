@@ -6,14 +6,14 @@ heading               = ""
 tagline               = ""
 primary_button        = "About"
 primary_button_url    = "about"
-secondary_button      = "Vote"
+secondary_button      = "Champions"
 secondary_button_url  = "vote"
 
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
 title               = "Don’t be shy ! Vote for someone."
-primary_button      = "Vote"
+primary_button      = "Champions"
 primary_button_url  = "vote"
 
 [newsroom]

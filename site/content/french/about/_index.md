@@ -6,13 +6,14 @@ description: AfricTivistes Civic Action Prize ou le Prix AfricTivistes pour
   fait le plus remarquer dans le continent pour avoir initié des projets
   innovants ou actions civiques et citoyennes porteurs de changement dans leurs
   communautés respectives. Le premier prix sera décerné à l’occasion du 3e
-  sommet AfricTivistes prévu en octobre 2021 à Nairobi (Kenya). “AFRICTIVISTES
-  CIVIC ACTION PRIZE” est le premier du genre en Afrique. Il se veut inclusif et
-  permettra de cartographier les meilleures actions citoyennes portées par de
-  jeunes africains. Tous les 54 pays du continent sont concernés et chaque
-  africain pourrait nominer <strong>un candidat sur la base de critères
-  prédéfinis</strong>. Plusieurs étapes vont précéder l’organisation et la
-  remise du prix AfricTivistes pour l’action citoyenne.
+  sommet AfricTivistes prévu du 11 au 13 novembre 2021 à Abidjan (Côte
+  d'Ivoire). “AFRICTIVISTES CIVIC ACTION PRIZE” est le premier du genre en
+  Afrique. Il se veut inclusif et permettra de cartographier les meilleures
+  actions citoyennes portées par de jeunes africains. Tous les 54 pays du
+  continent sont concernés et chaque africain pourrait nominer <strong>un
+  candidat sur la base de critères prédéfinis</strong>. Plusieurs étapes vont
+  précéder l’organisation et la remise du prix AfricTivistes pour l’action
+  citoyenne.
 image: images/about/trophy.jpeg
 expertise_title: Pour le lauréat
 expertise_sectors:

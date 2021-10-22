@@ -6,14 +6,14 @@ heading               = ""
 tagline               = ""
 primary_button        = "À propos"
 primary_button_url    = "/fr/about"
-secondary_button      = "Vote"
+secondary_button      = "Champions"
 secondary_button_url  = "/fr/vote"
 
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
 title               = "Ne soyez pas timide ! votez pour quelqu'un."
-primary_button      = "Vote"
+primary_button      = "Champions"
 primary_button_url  = "/fr/vote"
 
 [newsroom]

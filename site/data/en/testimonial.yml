@@ -2,18 +2,6 @@ enable  : true
 title   : "VOTE FOR YOUR CITIZEN CHAMPION"
 subtitle: "Below the AfricTivistes Civic Action Prize pre finalists"
 testimonial_item :
-  - thumb : "/images/testimonial/diakhate.jpg"
-    name  : "Mamadou Diakhaté"
-    id    : c1
-    company_position: Founder of the Simple Action Citoyenne association, Senegal"
-    url: /vote/diakhate
-    quote : > 
-            Team Niintche's project is to instill in young people and adults, as well as children, the notion of community engagement through actions that involve them and have a real impact on the daily lives of the population...
-    facebook : https://www.facebook.com/junior.kara.92
-    linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
-    instagram : https://instagram.com/niintche?utm_medium=copy_link
-    twitter : https://twitter.com/Niintche?s=08
-
   - thumb : "images/testimonial/muazu.jpg"
     name  : "Muazu Alhaji Modu"
     id    : c6
@@ -25,6 +13,18 @@ testimonial_item :
     linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
     instagram : https://www.instagram.com/Muazu_little4
     twitter   : https://www.instagram.com/Muazulittle4
+
+  - thumb : "/images/testimonial/diakhate.jpg"
+    name  : "Mamadou Diakhaté"
+    id    : c1
+    company_position: Founder of the Simple Action Citoyenne association, Senegal"
+    url: /vote/diakhate
+    quote : > 
+            Team Niintche's project is to instill in young people and adults, as well as children, the notion of community engagement through actions that involve them and have a real impact on the daily lives of the population...
+    facebook : https://www.facebook.com/junior.kara.92
+    linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
+    instagram : https://instagram.com/niintche?utm_medium=copy_link
+    twitter : https://twitter.com/Niintche?s=08
 
   - thumb : "images/testimonial/djamila.jpg"
     name  : "Djamila Boubacar Sahabi"

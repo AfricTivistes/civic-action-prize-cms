@@ -1,10 +1,10 @@
 ---
 title: The 5 Finalists of the AfricTivistes Prize for Civic Action 2021 known
 date: 2021-11-09T15:51:22.693Z
-image: /images/whatsapp-image-2021-11-09-at-14.06.18.jpeg
+image: /images/whatsapp-image-2021-11-09-at-14.06.18.png
 category:
   - Communicate
-feature_image: /images/whatsapp-image-2021-11-09-at-14.06.18.jpeg
+feature_image: /images/whatsapp-image-2021-11-09-at-14.06.18.png
 author: The AfricTivistes Civic Action Prize for 2021 is moving into its final
   phase that will lead to the selection of the African champion of civic action.
   The votes of the public and the institutional jury have chosen the five

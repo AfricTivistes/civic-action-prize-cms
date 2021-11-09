@@ -1,10 +1,10 @@
 ---
 title: Les 5 Finalistes du Prix AfricTivistes pour l’Action Civique 2021 connus
 date: 2021-11-09T15:42:57.181Z
-image: /images/whatsapp-image-2021-11-09-at-14.06.18.jpeg
+image: /images/whatsapp-image-2021-11-09-at-14.06.18.png
 category:
   - Communiqué
-feature_image: /images/whatsapp-image-2021-11-09-at-14.06.18.jpeg
+feature_image: /images/whatsapp-image-2021-11-09-at-14.06.18.png
 author: Le Prix AfricTivistes pour l'Action Civique 2021 entre dans sa dernière
   phase qui va mener à la désignation du champion africain de l'action civique.
   Les votes du public et du jury institutionnel ont porté leurs choix sur les

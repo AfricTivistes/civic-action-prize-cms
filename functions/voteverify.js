@@ -10,7 +10,7 @@ exports.handler = async(event, context, callback) => {
 
   try {
     const user = jwt.verify(key, JWT_SECRET);
-    const {langue} = data;
+    const {langue} = user;
     const link = (langue === "en") ? "https://prize.africtivistes.org/vote/?vote=yes" : "https://prize.africtivistes.org/fr/vote/?vote=yes";
     await addTosheet(user).then(
       (result) => {

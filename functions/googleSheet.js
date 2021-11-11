@@ -19,7 +19,7 @@ const formatDate = (date, format) => {
 };
 
 const addTosheet = async(data) => {
-  const {email, email:nom, link, langue} = data;
+  const {email, name, link, langue} = data;
 
   const doc = new GoogleSpreadsheet(GOOGLE_SHEET);
 
@@ -36,7 +36,7 @@ const addTosheet = async(data) => {
   const sheet = doc.sheetsByIndex[0]; // or use doc.sheetsById[id] or doc.sheetsByTitle[title]
 
   const moreRows = await sheet.addRows([
-    {horodateur, email, nom, link, langue}
+    {horodateur, email, name, link, langue}
   ]);
   return new Promise((resolve) => {
 

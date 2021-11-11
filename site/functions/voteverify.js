@@ -15,7 +15,7 @@ exports.handler = async(event, context, callback) => {
         callback(null, {
           statusCode: 302,
           headers: {
-            "Location": `${BASE_URL}${user.link}?vote=yes`
+            "Location": `https://prize.africtivistes.org/vote/?vote=yes`
           },
         });
       });
@@ -23,7 +23,7 @@ exports.handler = async(event, context, callback) => {
     return {
       statusCode: 302,
       headers: {
-        "Location": `${BASE_URL}/vote/`
+        "Location": `https://prize.africtivistes.org/`
       },
     };
   }

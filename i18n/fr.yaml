@@ -248,3 +248,5 @@
   translation: Cliquez sur le bouton "Je vote"
 - id: vote4
   translation: Allez dans votre mail, confirmez
+- id: merci
+  translation: Merci d'avoir voté...

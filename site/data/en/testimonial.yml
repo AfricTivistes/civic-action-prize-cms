@@ -61,60 +61,60 @@ testimonial_item :
     instagram : https://www.instagram.com/carellelaetitia
     twitter : https://www.twitter.com/Laetitiacarell1
 
-  - thumb : "images/testimonial/fatouma.jpg"
-    name  : "Fatouma Harber"
-    id    : c4
-    company_position: "Co-founder of SankoréLabs, Mali"
-    url: /vote/fatouma
-    quote : > 
-            Psychologist and web journalist This project addresses an action with young people to rebuild their spirit of citizenship, which seems to be lacking lately in Mali. It aims to interest young people in citizenship through citizenship clubs...
-    facebook : www.facebook.com/fatoumaharbert
-    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
-    twitter : https://mobile.twitter.com/@Fatittystar
-    site : SankoréLabs.com
+  # - thumb : "images/testimonial/fatouma.jpg"
+  #   name  : "Fatouma Harber"
+  #   id    : c4
+  #   company_position: "Co-founder of SankoréLabs, Mali"
+  #   url: /vote/fatouma
+  #   quote : > 
+  #           Psychologist and web journalist This project addresses an action with young people to rebuild their spirit of citizenship, which seems to be lacking lately in Mali. It aims to interest young people in citizenship through citizenship clubs...
+  #   facebook : www.facebook.com/fatoumaharbert
+  #   linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
+  #   twitter : https://mobile.twitter.com/@Fatittystar
+  #   site : SankoréLabs.com
 
-  - thumb : "images/testimonial/idris.jpg"
-    name  : "Idris Bilyaminu Ndasadu'Lau,"
-    id    : c8
-    company_position: "Founder of YAPD4Africa, Nigeria"
-    url: /vote/idris
-    quote : > 
-            This project aimed to reduce period poverty through sharing adequate information and skills to support marginalised women and girls regardless of where they lived around Nigeria. In 2020 during the International Girl Day,...
-    facebook : https://www.facebook.com/idrisBilyaminuNdasaduLau
-    linkedIn : https://www.linkedin.com/IdrisBilyaminuNdasaduLau
-    instagram : https://www.instagram.com/@activistndasadu
-    twitter : https://www.twitter.com/@activistndasadu
+  # - thumb : "images/testimonial/idris.jpg"
+  #   name  : "Idris Bilyaminu Ndasadu'Lau,"
+  #   id    : c8
+  #   company_position: "Founder of YAPD4Africa, Nigeria"
+  #   url: /vote/idris
+  #   quote : > 
+  #           This project aimed to reduce period poverty through sharing adequate information and skills to support marginalised women and girls regardless of where they lived around Nigeria. In 2020 during the International Girl Day,...
+  #   facebook : https://www.facebook.com/idrisBilyaminuNdasaduLau
+  #   linkedIn : https://www.linkedin.com/IdrisBilyaminuNdasaduLau
+  #   instagram : https://www.instagram.com/@activistndasadu
+  #   twitter : https://www.twitter.com/@activistndasadu
 
-  - thumb : "images/testimonial/adams.jpg"
-    name  : "Adams Cassinga"
-    id    : c9
-    company_position: "Founder of Conserv Congo, RDC"
-    url: /vote/adams
-    quote : > 
-            Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
-    facebook : https://www.facebook.com/AdamsCassinga
-    linkedIn : https://www.linkedin.com/AdamsCassinga
-    twitter : https://www.twitter.com/@Amini16
+  # - thumb : "images/testimonial/adams.jpg"
+  #   name  : "Adams Cassinga"
+  #   id    : c9
+  #   company_position: "Founder of Conserv Congo, RDC"
+  #   url: /vote/adams
+  #   quote : > 
+  #           Conserv CONGO is a local Nonprofit with a focus on the fight against the scourge of wildlife trafficking in the DRC and region of central Africa.  Our mission is to preserve the biodiversity of the Congo basin...  
+  #   facebook : https://www.facebook.com/AdamsCassinga
+  #   linkedIn : https://www.linkedin.com/AdamsCassinga
+  #   twitter : https://www.twitter.com/@Amini16
 
-  - thumb : "images/testimonial/fibanda.jpg"
-    name  : "Fibanda Brotry"
-    id    : c3
-    company_position: "Founder of Wezesha Young Farmers Initiative, Kenya"
-    url: /vote/fibanda
-    quote : > 
-            Wezesha young farmers initiative is an interesting concept that links Environmental conservation, Climate Action to Agriculture using agroecology approach. This initiative is being led by Fibanda...
-    facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
-    linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
-    instagram : https://www.instagram.com/fibanda1/ 
-    twitter : https://mobile.twitter.com/Fibanda1
+  # - thumb : "images/testimonial/fibanda.jpg"
+  #   name  : "Fibanda Brotry"
+  #   id    : c3
+  #   company_position: "Founder of Wezesha Young Farmers Initiative, Kenya"
+  #   url: /vote/fibanda
+  #   quote : > 
+  #           Wezesha young farmers initiative is an interesting concept that links Environmental conservation, Climate Action to Agriculture using agroecology approach. This initiative is being led by Fibanda...
+  #   facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
+  #   linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
+  #   instagram : https://www.instagram.com/fibanda1/ 
+  #   twitter : https://mobile.twitter.com/Fibanda1
      
-  - thumb : "images/testimonial/hamzat.jpg"
-    name  : "Hamzat Bala Lawal"
-    id    : c7
-    company_position: "Founder of Connected Development (CODE), Nigeria"
-    url: /vote/hamzat
-    quote : > 
-            Follow The Money is a Pan-African grassroots movement that tries to answer where funds are coming from, where they're going to but how judiciously these funds are being used to impact grassroots communities. Founded in 2020 by Hamzat Lawal and started in Nigeria...
-    facebook : https://www.facebook.com/hamzatblawal
-    linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
-    twitter : https://twitter.com/HamzyCODE
+  # - thumb : "images/testimonial/hamzat.jpg"
+  #   name  : "Hamzat Bala Lawal"
+  #   id    : c7
+  #   company_position: "Founder of Connected Development (CODE), Nigeria"
+  #   url: /vote/hamzat
+  #   quote : > 
+  #           Follow The Money is a Pan-African grassroots movement that tries to answer where funds are coming from, where they're going to but how judiciously these funds are being used to impact grassroots communities. Founded in 2020 by Hamzat Lawal and started in Nigeria...
+  #   facebook : https://www.facebook.com/hamzatblawal
+  #   linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
+  #   twitter : https://twitter.com/HamzyCODE

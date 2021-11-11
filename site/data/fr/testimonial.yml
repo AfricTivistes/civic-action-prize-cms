@@ -61,60 +61,60 @@ testimonial_item :
     instagram : https://www.instagram.com/carellelaetitia
     twitter : https://www.twitter.com/Laetitiacarell1
 
-  - thumb : "images/testimonial/fatouma.jpg"
-    name  : "Fatouma Harber"
-    id    : c4
-    company_position: "Co-fondatrice de SankoréLabs"
-    url: /fr/vote/fatouma
-    quote : > 
-            Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
-    facebook : www.facebook.com/fatoumaharbert
-    linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
-    twitter : https://mobile.twitter.com/@Fatittystar
-    site : SankoréLabs.com
+  # - thumb : "images/testimonial/fatouma.jpg"
+  #   name  : "Fatouma Harber"
+  #   id    : c4
+  #   company_position: "Co-fondatrice de SankoréLabs"
+  #   url: /fr/vote/fatouma
+  #   quote : > 
+  #           Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
+  #   facebook : www.facebook.com/fatoumaharbert
+  #   linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
+  #   twitter : https://mobile.twitter.com/@Fatittystar
+  #   site : SankoréLabs.com
 
-  - thumb : "images/testimonial/idris.jpg"
-    name  : "Idris Bilyaminu Ndasadu'Lau"
-    id    : c8
-    company_position: "Fondateur de YAPD4Africa, Nigéria"
-    url: /fr/vote/idris
-    quote : > 
-            Ce projet visait à réduire la pauvreté périodique en partageant des informations et des compétences adéquates pour soutenir les femmes et les filles marginalisées, quel que soit leur lieu de résidence au Nigeria. En 2020, ...
-    facebook : https://www.facebook.com/idrisBilyaminuNdasaduLau
-    linkedIn : https://www.linkedin.com/IdrisBilyaminuNdasaduLau
-    instagram : https://www.instagram.com/@activistndasadu
-    twitter : https://www.twitter.com/@activistndasadu
+  # - thumb : "images/testimonial/idris.jpg"
+  #   name  : "Idris Bilyaminu Ndasadu'Lau"
+  #   id    : c8
+  #   company_position: "Fondateur de YAPD4Africa, Nigéria"
+  #   url: /fr/vote/idris
+  #   quote : > 
+  #           Ce projet visait à réduire la pauvreté périodique en partageant des informations et des compétences adéquates pour soutenir les femmes et les filles marginalisées, quel que soit leur lieu de résidence au Nigeria. En 2020, ...
+  #   facebook : https://www.facebook.com/idrisBilyaminuNdasaduLau
+  #   linkedIn : https://www.linkedin.com/IdrisBilyaminuNdasaduLau
+  #   instagram : https://www.instagram.com/@activistndasadu
+  #   twitter : https://www.twitter.com/@activistndasadu
     
-  - thumb : "images/testimonial/adams.jpg"
-    name  : "Adams Cassinga"
-    id    : c9
-    company_position: "Fondateur de Conserv Congo"
-    url: /fr/vote/adams
-    quote : > 
-            Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale...
-    facebook : https://www.facebook.com/AdamsCassinga
-    linkedIn : https://www.linkedin.com/AdamsCassinga
-    twitter : https://www.twitter.com/@Amini16
+  # - thumb : "images/testimonial/adams.jpg"
+  #   name  : "Adams Cassinga"
+  #   id    : c9
+  #   company_position: "Fondateur de Conserv Congo"
+  #   url: /fr/vote/adams
+  #   quote : > 
+  #           Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale...
+  #   facebook : https://www.facebook.com/AdamsCassinga
+  #   linkedIn : https://www.linkedin.com/AdamsCassinga
+  #   twitter : https://www.twitter.com/@Amini16
 
-  - thumb : "images/testimonial/fibanda.jpg"
-    name  : "Fibanda Brotry"
-    id    : c3
-    company_position: "Fondateur de l’initiative Wezesha Young Farmers, Kenya"
-    url: /fr/vote/fibanda
-    quote : > 
-            L'initiative Wezesha pour les jeunes agriculteurs est un concept intéressant qui relie la conservation de l'environnement, l'action climatique et l'agriculture en utilisant l'approche agroécologique. Cette initiative est dirigée par Fibanda, de la société de conseil APSID...
-    facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
-    linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
-    instagram : https://www.instagram.com/fibanda1/ 
-    twitter : https://mobile.twitter.com/Fibanda1
+  # - thumb : "images/testimonial/fibanda.jpg"
+  #   name  : "Fibanda Brotry"
+  #   id    : c3
+  #   company_position: "Fondateur de l’initiative Wezesha Young Farmers, Kenya"
+  #   url: /fr/vote/fibanda
+  #   quote : > 
+  #           L'initiative Wezesha pour les jeunes agriculteurs est un concept intéressant qui relie la conservation de l'environnement, l'action climatique et l'agriculture en utilisant l'approche agroécologique. Cette initiative est dirigée par Fibanda, de la société de conseil APSID...
+  #   facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
+  #   linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
+  #   instagram : https://www.instagram.com/fibanda1/ 
+  #   twitter : https://mobile.twitter.com/Fibanda1
 
-  - thumb : "images/testimonial/hamzat.jpg"
-    name  : "Hamzat Bala Lawal"
-    id    : c7
-    company_position: "Fondateur de Connected Development (CODE), Nigéria"
-    url: /fr/vote/hamzat
-    quote : > 
-            Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base...
-    facebook : https://www.facebook.com/hamzatblawal
-    linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
-    twitter : https://twitter.com/HamzyCODE
+  # - thumb : "images/testimonial/hamzat.jpg"
+  #   name  : "Hamzat Bala Lawal"
+  #   id    : c7
+  #   company_position: "Fondateur de Connected Development (CODE), Nigéria"
+  #   url: /fr/vote/hamzat
+  #   quote : > 
+  #           Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base...
+  #   facebook : https://www.facebook.com/hamzatblawal
+  #   linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
+  #   twitter : https://twitter.com/HamzyCODE

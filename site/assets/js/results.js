@@ -6,7 +6,6 @@ $(document).ready(function () {
     {
       dataType: 'json',
       success: function (data, status, xhr) {// success callback function
-        console.log(data);
         for (let i = 0; i < data.length; i++) {
           // change style
           $(`#${data[i].id} .progression-bar-inner-progress`).css('width', `${data[i].count}%`); //height: 5px;background-color: #f4a222

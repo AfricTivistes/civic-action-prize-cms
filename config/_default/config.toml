@@ -1,4 +1,4 @@
-baseURL       = "/"
+baseURL       = "https://africtivistes.github.io/civic-action-prize-cms/"
 theme         = "roxo-hugo"
 summarylength = 25
 

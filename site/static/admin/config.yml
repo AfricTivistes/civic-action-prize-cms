@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
 
 media_folder: "site/static/images" # Folder where user uploaded files should go
 public_folder: "/images"

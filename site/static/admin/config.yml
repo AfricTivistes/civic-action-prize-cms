@@ -6,45 +6,8 @@ media_folder: "site/static/images" # Folder where user uploaded files should go
 public_folder: "/images"
 
 collections:
-  - name: "page_en"
-    label: "Page in English"
-    files:
-      - file: "site/content/english/about/_index.md"
-        label: "About"
-        name: "about"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Description", name: "description", widget: "text"}
-          - {label: Image, name: image, widget: image}
-          - {label: "Expertise title", name: "expertise_title", widget: string}
-          - {label: "Expertise sectors", name: expertise_sectors, widget: list, field: {label: Texte, name: Text, widget: string}}
-          - {label: "Content", name: "body", widget: "markdown"}
-      - file: "site/content/english/nominated/_index.md"
-        label: "Nominated"
-        name: "nominated"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Heading", name: "heading", widget: string}
-          - {label: "Form heading 1", name: "form_heading_1", widget: string}
-          - {label: "Form heading 2", name: "form_heading_2", widget: string}
-          - {label: "Form heading 3", name: "form_heading_3", widget: string}
-          - {label: "Content", name: "body", widget: "markdown"}
-  - name: "newsroom_en"
-    label: "Newsroom in English"
-    folder: "site/content/english/newsroom"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: Image, name: image, widget: image}
-      - {label: Category, name: category, widget: list, field: {label: Texte, name: Text, widget: string}}
-      - {label: "feature Image", name: feature_image, widget: image}
-      - {label: Author, name: author, widget: string}
-      - {label: "Content", name: "body", widget: "markdown"}
   - name: "page_fr"
-    label: "Page en Français"
+    label: "Page"
     files:
       - file: "site/content/french/about/_index.md"
         label: "À propos"
@@ -69,7 +32,7 @@ collections:
           - {label: "Titre du formulaire 3", name: "form_heading_3", widget: string}
           - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "newsroom_fr"
-    label: "Newsroom en Français"
+    label: "Newsroom"
     folder: "site/content/french/newsroom"
     create: true
     fields:
@@ -80,4 +43,16 @@ collections:
       - {label: "Image caractéristique", name: feature_image, widget: image}
       - {label: Auteure, name: author, widget: string}
       - {label: "Contenu", name: "body", widget: "markdown"}
+  - name: "jury_fr"
+    label: "Jury"
+    folder: "site/content/french/comitejury"
+    create: true
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: Image, name: image, widget: image, required: false}
+      - {label: Catégorie, name: category, widget: list, field: {label: Texte, name: Text, widget: string}, required: false}
+      - {label: "Image caractéristique", name: feature_image, widget: image, required: false}
+      - {label: Auteure, name: author, widget: string, required: false}
+      - {label: "Contenu", name: "body", widget: "markdown", required: false}
  

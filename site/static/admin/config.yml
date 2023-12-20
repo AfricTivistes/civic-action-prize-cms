@@ -55,4 +55,18 @@ collections:
       - {label: "Image caractéristique", name: feature_image, widget: image, required: false}
       - {label: Auteure, name: author, widget: string, required: false}
       - {label: "Contenu", name: "body", widget: "markdown", required: false}
+  - name: "vote_fr"
+    label: "candidatures"
+    folder: "site/content/french/vote"
+    create: true
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Projet", name: "projet", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: Image, name: image, widget: image, required: false}
+      - {label: "Nom", name: "name", widget: "string", required: false}
+      - {label: "facebook", name: "facebook", widget: "string", required: false}
+      - {label: "linkedIn", name: "linkedIn", widget: "string", required: false}
+      - {label: "twitter", name: "twitter", widget: "string", required: false}
  

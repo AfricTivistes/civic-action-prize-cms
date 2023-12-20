@@ -6,6 +6,56 @@ media_folder: "site/static/images" # Folder where user uploaded files should go
 public_folder: "/images"
 
 collections:
+  - name: "vote_fr"
+    label: "candidatures"
+    folder: "site/content/french/vote"
+    create: true
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Projet", name: "projet", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: Image, name: image, widget: image, required: false}
+      - {label: "Nom", name: "name", widget: "string", required: false}
+      - {label: "facebook", name: "facebook", widget: "string", required: false}
+      - {label: "linkedIn", name: "linkedIn", widget: "string", required: false}
+      - {label: "twitter", name: "twitter", widget: "string", required: false}
+  - name: "newsroom_fr"
+    label: "Newsroom"
+    folder: "site/content/french/newsroom"
+    create: true
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: Image, name: image, widget: image}
+      - {label: Catégorie, name: category, widget: list, field: {label: Texte, name: Text, widget: string}}
+      - {label: "Image caractéristique", name: feature_image, widget: image}
+      - {label: Auteure, name: author, widget: string}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+  - name: "press_fr"
+    label: "Press"
+    folder: "site/content/french/press"
+    create: true
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: Image, name: image, widget: image}
+      - {label: Catégorie, name: category, widget: list, field: {label: Texte, name: Text, widget: string}}
+      - {label: "Image caractéristique", name: feature_image, widget: image}
+      - {label: Auteure, name: author, widget: string}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+  - name: "jury_fr"
+    label: "Jury"
+    folder: "site/content/french/comitejury"
+    create: true
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: Image, name: image, widget: image, required: false}
+      - {label: Catégorie, name: category, widget: list, field: {label: Texte, name: Text, widget: string}, required: false}
+      - {label: "Image caractéristique", name: feature_image, widget: image, required: false}
+      - {label: Auteure, name: author, widget: string, required: false}
+      - {label: "Contenu", name: "body", widget: "markdown", required: false}
   - name: "page_fr"
     label: "Page"
     files:
@@ -31,42 +81,6 @@ collections:
           - {label: "Titre du formulaire 2", name: "form_heading_2", widget: string}
           - {label: "Titre du formulaire 3", name: "form_heading_3", widget: string}
           - {label: "Contenu", name: "body", widget: "markdown"}
-  - name: "newsroom_fr"
-    label: "Newsroom"
-    folder: "site/content/french/newsroom"
-    create: true
-    fields:
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: Image, name: image, widget: image}
-      - {label: Catégorie, name: category, widget: list, field: {label: Texte, name: Text, widget: string}}
-      - {label: "Image caractéristique", name: feature_image, widget: image}
-      - {label: Auteure, name: author, widget: string}
-      - {label: "Contenu", name: "body", widget: "markdown"}
-  - name: "jury_fr"
-    label: "Jury"
-    folder: "site/content/french/comitejury"
-    create: true
-    fields:
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: Image, name: image, widget: image, required: false}
-      - {label: Catégorie, name: category, widget: list, field: {label: Texte, name: Text, widget: string}, required: false}
-      - {label: "Image caractéristique", name: feature_image, widget: image, required: false}
-      - {label: Auteure, name: author, widget: string, required: false}
-      - {label: "Contenu", name: "body", widget: "markdown", required: false}
-  - name: "vote_fr"
-    label: "candidatures"
-    folder: "site/content/french/vote"
-    create: true
-    fields:
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Projet", name: "projet", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: Image, name: image, widget: image, required: false}
-      - {label: "Nom", name: "name", widget: "string", required: false}
-      - {label: "facebook", name: "facebook", widget: "string", required: false}
-      - {label: "linkedIn", name: "linkedIn", widget: "string", required: false}
-      - {label: "twitter", name: "twitter", widget: "string", required: false}
+  
+  
  

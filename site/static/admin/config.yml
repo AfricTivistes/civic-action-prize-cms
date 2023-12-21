@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   repo: AfricTivistes/InnovDemocracy
+  branch: main
 
 media_folder: "site/static/images" # Folder where user uploaded files should go
 public_folder: "/images"

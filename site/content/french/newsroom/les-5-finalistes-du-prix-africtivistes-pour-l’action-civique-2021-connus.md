@@ -27,4 +27,4 @@ Pour la prochaine étape, chaque finaliste devra préparer un pitch devant l'aud
 
 
 
-En Savoir plus sur AfricTivistesPrize:[*https://prize.africtivistes.​org/fr*/](https://prize.africtivistes.org/fr/)
+En Savoir plus sur AfricTivistesPrize:[*https://prize.africtivistes.​org/](https://prize.africtivistes.org)

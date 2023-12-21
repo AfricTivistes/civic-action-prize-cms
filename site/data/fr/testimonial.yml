@@ -6,7 +6,7 @@ testimonial_item :
     name  : "Muazu Alhaji Modu"
     id    : c6
     company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
-    url: /fr/vote/muazu
+    url: vote/muazu
     quote : > 
             L'initiative de suivi par les citoyens est une initiative de responsabilisation sociale fondée sur les données qui utilise les chiffres et exploite la technologie numérique pour donner aux citoyens à la base les moyens d'exiger des comptes ...
     facebook : https://www.facebook.com/muazul1
@@ -18,7 +18,7 @@ testimonial_item :
     name  : "Mamadou Diakhaté"
     id    : c1
     company_position: "Fondateur de l’association Simple Action Citoyenne Sénégal"
-    url: /fr/vote/diakhate
+    url: vote/diakhate
     quote : > 
             La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service...
     facebook : https://www.facebook.com/junior.kara.92
@@ -30,7 +30,7 @@ testimonial_item :
     name  : "Djamila Boubacar Sahabi"
     id    : c10
     company_position: "Fondatrice de Actu Magazine & Nissa Pad , Niger"
-    url: /fr/vote/djamila
+    url: vote/djamila
     quote : > 
             Nissa  Pad est une marque de serviette hygiénique lavables en coton biologique certifié, non teint et non blanchi, confortable, amie de votre Budget .3 fois plus absorbante que les serviettes jetables et tampons pour un flux menstruelle moyen à abondant ainsi ...
     facebook : https://www.facebook.com/Nissa-Pad-111523937194558/ 
@@ -42,7 +42,7 @@ testimonial_item :
     name  : "Divine Ingabire"
     id    : c2
     company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
-    url: /fr/vote/divine
+    url: vote/divine
     quote : > 
             I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
     facebook : https://web.facebook.com/Imatterinitiative
@@ -53,7 +53,7 @@ testimonial_item :
     name  : "Laetitia Carelle Goli"
     id    : c5
     company_position: "Fondatrice de l’Académie Politique des Femmes, Côte d’Ivoire"
-    url: /fr/vote/laetitia
+    url: vote/laetitia
     quote : > 
             L’Académie politique des femmes est une école de formation politique des femmes de la société civile et politique. Pendant 3 mois, elles sont formées à la science politique, à la citoyenneté. Avec l'académie politique des femmes, ...
     facebook : https://www.facebook.com/apofem

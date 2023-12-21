@@ -22,7 +22,7 @@ Le processus de sélection des 10 préfinalistes du prix AfricTivistes pour l’
 
 Le comité de sélection du Prix AfricTivistes considère que ces 10 pré finalistes présentent les meilleurs projets à fort impact social.
 
-Pour la prochaine étape, ces candidats sélectionnés seront mis en compétition à travers un vote public sur la plateforme dédiée: <https://prize.africtivistes.org/fr/>
+Pour la prochaine étape, ces candidats sélectionnés seront mis en compétition à travers un vote public sur la plateforme dédiée: <https://prize.africtivistes.org/>
 
 Il y aura 2 votes dans cette partie. Un premier vote sera lancé afin de permettre aux 10 candidats et à leurs équipes de mener une campagne avec le hashtag #AfricTivistesPrize. **Le vote débutera le lundi 11 octobre 2021 à 18 heures TU (Temps Universel) et prendra fin le vendredi 22 Octobre 2021 à 18 heures TU (Temps Universel)**. 
 

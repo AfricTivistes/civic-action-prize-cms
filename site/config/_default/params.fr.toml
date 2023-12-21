@@ -5,16 +5,16 @@ background_image      = "/images/backgrounds/5finalistes.png"
 heading               = ""
 tagline               = ""
 primary_button        = "À propos"
-primary_button_url    = "/fr/about"
+primary_button_url    = "about"
 secondary_button      = "Champions"
-secondary_button_url  = "/fr/vote"
+secondary_button_url  = "vote"
 
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
 title               = "Ne soyez pas timide ! votez pour quelqu'un."
 primary_button      = "Champions"
-primary_button_url  = "/fr/vote"
+primary_button_url  = "vote"
 
 [newsroom]
 enable    = true
@@ -44,16 +44,16 @@ subtitle  = ""
     title   = "Sitemap"
     [[footer.sitemap.link]]
         name = "Accueil"
-        url  = "/fr"
+        url  = "/"
     [[footer.sitemap.link]]
         name = "À propos"
-        url  = "/fr/about"
+        url  = "about"
     [[footer.sitemap.link]]
         name = "Newsroom"
-        url  = "/fr/newsroom"
+        url  = "newsroom"
     [[footer.sitemap.link]]
         name = "Nominer quelqu'un"
-        url  = "/fr/nominated"
+        url  = "nominated"
     # Footer Social Media
     [footer.social]
     title   = "Social Media"

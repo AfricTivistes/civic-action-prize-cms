@@ -29,5 +29,5 @@ AfricTivistes est convaincue que la démocratie participative n’est réelle qu
 
 En savoir plus
 
-> https://prize.africtivistes.org/fr/
+> https://prize.africtivistes.org/
 > Suivez-nous sur Twitter #AfricTivistesPrize
